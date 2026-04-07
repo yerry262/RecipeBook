@@ -1,0 +1,40 @@
+{
+  "id": "apple-pie",
+  "slug": "apple-pie",
+  "title": "Classic Apple Pie",
+  "category": "dessert",
+  "description": "A timeless apple pie with a flaky, buttery double crust and a spiced apple filling. American perfection.",
+  "image": "https://images.unsplash.com/photo-1535920527002-b35e96722eb9?w=800&q=80",
+  "prepTime": "45 min",
+  "cookTime": "55 min",
+  "totalTime": "2 hr (includes chilling)",
+  "servings": 8,
+  "difficulty": "Hard",
+  "tags": ["dessert", "pie", "baking", "apple", "thanksgiving", "fall"],
+  "ingredients": [
+    { "amount": "2½", "unit": "cups", "item": "all-purpose flour", "note": "for crust" },
+    { "amount": "1", "unit": "tsp", "item": "salt", "note": "for crust" },
+    { "amount": "1", "unit": "cup (2 sticks)", "item": "cold unsalted butter", "note": "cut into small cubes" },
+    { "amount": "6–8", "unit": "tbsp", "item": "ice water" },
+    { "amount": "6", "unit": "medium", "item": "Granny Smith apples", "note": "peeled, cored, thinly sliced" },
+    { "amount": "2", "unit": "medium", "item": "Honeycrisp apples", "note": "peeled, cored, thinly sliced" },
+    { "amount": "¾", "unit": "cup", "item": "granulated sugar" },
+    { "amount": "2", "unit": "tbsp", "item": "cornstarch" },
+    { "amount": "2", "unit": "tsp", "item": "ground cinnamon" },
+    { "amount": "¼", "unit": "tsp", "item": "ground nutmeg" },
+    { "amount": "1", "unit": "tbsp", "item": "lemon juice" },
+    { "amount": "1", "unit": "large", "item": "egg", "note": "beaten, for egg wash" },
+    { "amount": "1", "unit": "tbsp", "item": "coarse sugar", "note": "for topping" }
+  ],
+  "steps": [
+    { "step": 1, "instruction": "Make the crust: Combine flour and salt. Work in cold butter with your fingers or a pastry cutter until pea-sized clumps form. Add ice water one tablespoon at a time, tossing until the dough just comes together. Divide in half, flatten into discs, wrap in plastic, and refrigerate 1 hour." },
+    { "step": 2, "instruction": "Make the filling: Toss apple slices with sugar, cornstarch, cinnamon, nutmeg, and lemon juice. Let sit 15 minutes." },
+    { "step": 3, "instruction": "Preheat oven to 425°F (220°C). Roll out one disc of dough on a floured surface and fit into a 9-inch pie dish." },
+    { "step": 4, "instruction": "Drain excess liquid from the apple filling, then pile into the pie shell, mounding slightly in the center." },
+    { "step": 5, "instruction": "Roll out the second disc and place over the filling. Trim excess dough, then crimp the edges to seal. Cut several slits in the top crust to vent steam." },
+    { "step": 6, "instruction": "Brush with egg wash and sprinkle with coarse sugar." },
+    { "step": 7, "instruction": "Bake at 425°F for 20 minutes, then reduce heat to 375°F and bake 35–40 more minutes until the crust is deep golden and filling is bubbling." },
+    { "step": 8, "instruction": "Cool on a wire rack for at least 2 hours before slicing. Serve with vanilla ice cream." }
+  ],
+  "notes": "Using a mix of tart (Granny Smith) and sweet (Honeycrisp) apples creates the best depth of flavor."
+}

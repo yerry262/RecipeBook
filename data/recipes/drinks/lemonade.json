@@ -1,0 +1,29 @@
+{
+  "id": "lemonade",
+  "slug": "lemonade",
+  "title": "Fresh Squeezed Lemonade",
+  "category": "drinks",
+  "description": "Bright, refreshing homemade lemonade made with real lemons and a simple syrup. Nothing beats it on a hot day.",
+  "image": "https://images.unsplash.com/photo-1523677011781-c91d1bbe2f9e?w=800&q=80",
+  "prepTime": "10 min",
+  "cookTime": "5 min",
+  "totalTime": "15 min",
+  "servings": 6,
+  "difficulty": "Easy",
+  "tags": ["drinks", "lemonade", "refreshing", "summer", "non-alcoholic"],
+  "ingredients": [
+    { "amount": "1", "unit": "cup", "item": "fresh lemon juice", "note": "about 6–8 lemons" },
+    { "amount": "1", "unit": "cup", "item": "granulated sugar" },
+    { "amount": "1", "unit": "cup", "item": "water", "note": "for simple syrup" },
+    { "amount": "4", "unit": "cups", "item": "cold water" },
+    { "amount": "", "unit": "to garnish", "item": "lemon slices, fresh mint, ice" }
+  ],
+  "steps": [
+    { "step": 1, "instruction": "Make simple syrup: Combine sugar and 1 cup water in a small saucepan. Heat over medium, stirring, until sugar dissolves completely. Remove from heat and cool." },
+    { "step": 2, "instruction": "Juice the lemons until you have 1 cup of fresh lemon juice. Strain out the seeds." },
+    { "step": 3, "instruction": "In a large pitcher, combine lemon juice, cooled simple syrup, and 4 cups of cold water. Stir well." },
+    { "step": 4, "instruction": "Taste and adjust — add more lemon for tartness or more simple syrup for sweetness." },
+    { "step": 5, "instruction": "Serve over plenty of ice, garnished with lemon slices and fresh mint." }
+  ],
+  "notes": "For strawberry lemonade, blend ½ cup of fresh strawberries and stir into the finished lemonade."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "chicken-caesar-salad",
+  "slug": "chicken-caesar-salad",
+  "title": "Chicken Caesar Salad",
+  "category": "lunch",
+  "description": "Classic Caesar salad with crispy romaine, parmesan, house-made croutons, and grilled chicken.",
+  "image": "https://images.unsplash.com/photo-1550304943-4f24f54ddde9?w=800&q=80",
+  "prepTime": "15 min",
+  "cookTime": "15 min",
+  "totalTime": "30 min",
+  "servings": 2,
+  "difficulty": "Medium",
+  "tags": ["lunch", "salad", "chicken", "healthy"],
+  "ingredients": [
+    { "amount": "2", "unit": "boneless skinless", "item": "chicken breasts" },
+    { "amount": "1", "unit": "large head", "item": "romaine lettuce", "note": "chopped" },
+    { "amount": "½", "unit": "cup", "item": "parmesan cheese", "note": "shaved or grated" },
+    { "amount": "1", "unit": "cup", "item": "croutons" },
+    { "amount": "3", "unit": "tbsp", "item": "Caesar dressing" },
+    { "amount": "1", "unit": "tbsp", "item": "olive oil" },
+    { "amount": "", "unit": "to taste", "item": "salt, pepper, and garlic powder" },
+    { "amount": "", "unit": "to garnish", "item": "lemon wedges and black pepper" }
+  ],
+  "steps": [
+    { "step": 1, "instruction": "Season chicken breasts with olive oil, salt, pepper, and garlic powder." },
+    { "step": 2, "instruction": "Heat a grill pan or skillet over medium-high heat. Cook chicken 6–7 minutes per side until cooked through (internal temp 165°F). Let rest 5 minutes, then slice." },
+    { "step": 3, "instruction": "In a large bowl, toss the romaine with Caesar dressing until well coated." },
+    { "step": 4, "instruction": "Add croutons and half the parmesan. Toss again." },
+    { "step": 5, "instruction": "Plate the salad and top with sliced chicken and remaining parmesan." },
+    { "step": 6, "instruction": "Finish with freshly cracked black pepper and a squeeze of lemon." }
+  ]
+}

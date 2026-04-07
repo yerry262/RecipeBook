@@ -1,0 +1,33 @@
+{
+  "id": "classic-pancakes",
+  "slug": "classic-pancakes",
+  "title": "Classic Fluffy Pancakes",
+  "category": "breakfast",
+  "description": "Light, fluffy pancakes perfect for a lazy Sunday morning. Golden on the outside, pillowy soft on the inside.",
+  "image": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=800&q=80",
+  "prepTime": "10 min",
+  "cookTime": "20 min",
+  "totalTime": "30 min",
+  "servings": 4,
+  "difficulty": "Easy",
+  "tags": ["breakfast", "pancakes", "weekend", "family favorite"],
+  "ingredients": [
+    { "amount": "1½", "unit": "cups", "item": "all-purpose flour" },
+    { "amount": "3½", "unit": "tsp", "item": "baking powder" },
+    { "amount": "1", "unit": "tsp", "item": "salt" },
+    { "amount": "1", "unit": "tbsp", "item": "granulated sugar" },
+    { "amount": "1¼", "unit": "cups", "item": "whole milk" },
+    { "amount": "1", "unit": "large", "item": "egg" },
+    { "amount": "3", "unit": "tbsp", "item": "unsalted butter", "note": "melted" },
+    { "amount": "1", "unit": "tsp", "item": "vanilla extract" }
+  ],
+  "steps": [
+    { "step": 1, "instruction": "In a large bowl, whisk together flour, baking powder, salt, and sugar." },
+    { "step": 2, "instruction": "Make a well in the center and pour in the milk, egg, melted butter, and vanilla. Mix until smooth, but don't overmix — a few lumps are fine." },
+    { "step": 3, "instruction": "Let the batter rest for 5 minutes. This helps create fluffier pancakes." },
+    { "step": 4, "instruction": "Heat a nonstick skillet or griddle over medium heat. Lightly grease with butter or cooking spray." },
+    { "step": 5, "instruction": "Pour about ¼ cup of batter per pancake onto the skillet. Cook until bubbles form on the surface and edges look set, about 2–3 minutes." },
+    { "step": 6, "instruction": "Flip and cook another 1–2 minutes until golden brown. Serve immediately with maple syrup and butter." }
+  ],
+  "notes": "For extra fluffy pancakes, separate the egg and fold in whipped egg whites at the end. Add blueberries or chocolate chips for a fun twist!"
+}

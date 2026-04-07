@@ -1,0 +1,35 @@
+{
+  "id": "roast-chicken",
+  "slug": "roast-chicken",
+  "title": "Herb Roasted Chicken",
+  "category": "dinner",
+  "description": "Juicy, herb-butter roasted whole chicken with crispy golden skin. A true Sunday dinner showstopper.",
+  "image": "https://images.unsplash.com/photo-1598103442097-8b74394b95c7?w=800&q=80",
+  "prepTime": "15 min",
+  "cookTime": "1 hr 20 min",
+  "totalTime": "1 hr 35 min",
+  "servings": 4,
+  "difficulty": "Medium",
+  "tags": ["dinner", "chicken", "roast", "sunday dinner", "family favorite"],
+  "ingredients": [
+    { "amount": "1", "unit": "whole (4-5 lb)", "item": "chicken" },
+    { "amount": "4", "unit": "tbsp", "item": "unsalted butter", "note": "softened" },
+    { "amount": "4", "unit": "cloves", "item": "garlic", "note": "minced" },
+    { "amount": "1", "unit": "tbsp", "item": "fresh rosemary", "note": "finely chopped" },
+    { "amount": "1", "unit": "tbsp", "item": "fresh thyme leaves" },
+    { "amount": "1", "unit": "lemon", "note": "zested and halved" },
+    { "amount": "2", "unit": "tbsp", "item": "olive oil" },
+    { "amount": "1", "unit": "whole head", "item": "garlic", "note": "halved crosswise" },
+    { "amount": "", "unit": "to taste", "item": "kosher salt and black pepper" }
+  ],
+  "steps": [
+    { "step": 1, "instruction": "Preheat oven to 425°F (220°C). Pat the chicken completely dry with paper towels — this is key for crispy skin." },
+    { "step": 2, "instruction": "Mix softened butter with minced garlic, rosemary, thyme, and lemon zest. Season generously with salt and pepper." },
+    { "step": 3, "instruction": "Carefully loosen the skin over the breast meat and rub herb butter directly under the skin. Rub remaining butter all over the outside." },
+    { "step": 4, "instruction": "Season the cavity with salt and pepper, then stuff with the lemon halves and halved garlic head." },
+    { "step": 5, "instruction": "Tie the legs together with kitchen twine. Place the chicken breast-side up in a roasting pan." },
+    { "step": 6, "instruction": "Roast for 1 hour 15 minutes to 1 hour 20 minutes, until the juices run clear and a thermometer reads 165°F in the thickest part of the thigh." },
+    { "step": 7, "instruction": "Let the chicken rest for at least 10 minutes before carving. Serve with the pan juices." }
+  ],
+  "notes": "For the crispiest skin, air-dry the salted chicken uncovered in the fridge overnight before roasting."
+}

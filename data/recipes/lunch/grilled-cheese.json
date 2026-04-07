@@ -1,0 +1,30 @@
+{
+  "id": "grilled-cheese",
+  "slug": "grilled-cheese",
+  "title": "Ultimate Grilled Cheese",
+  "category": "lunch",
+  "description": "The perfect grilled cheese — buttery, golden, and oozing with melted cheese. Simple perfection.",
+  "image": "https://images.unsplash.com/photo-1528736235302-52922df5c122?w=800&q=80",
+  "prepTime": "5 min",
+  "cookTime": "10 min",
+  "totalTime": "15 min",
+  "servings": 1,
+  "difficulty": "Easy",
+  "tags": ["lunch", "sandwich", "comfort food", "quick"],
+  "ingredients": [
+    { "amount": "2", "unit": "slices", "item": "sourdough or white sandwich bread" },
+    { "amount": "2", "unit": "tbsp", "item": "unsalted butter", "note": "softened" },
+    { "amount": "2", "unit": "slices", "item": "sharp cheddar cheese" },
+    { "amount": "1", "unit": "slice", "item": "American cheese", "note": "for meltiness" },
+    { "amount": "1", "unit": "tsp", "item": "Dijon mustard", "note": "optional" }
+  ],
+  "steps": [
+    { "step": 1, "instruction": "Spread softened butter evenly on one side of each bread slice." },
+    { "step": 2, "instruction": "Heat a skillet over medium-low heat." },
+    { "step": 3, "instruction": "Place one slice of bread butter-side down in the pan. Layer on the cheeses (and Dijon if using), then top with the second slice, butter-side up." },
+    { "step": 4, "instruction": "Cook for 3–4 minutes until the bottom is deep golden brown." },
+    { "step": 5, "instruction": "Flip carefully and cook another 2–3 minutes until golden and the cheese is fully melted." },
+    { "step": 6, "instruction": "Remove from heat, let rest 1 minute, then slice diagonally and serve." }
+  ],
+  "notes": "The secret is medium-low heat — low and slow ensures the cheese melts before the bread burns."
+}

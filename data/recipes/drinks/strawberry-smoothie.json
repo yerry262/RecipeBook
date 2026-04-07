@@ -1,0 +1,30 @@
+{
+  "id": "strawberry-smoothie",
+  "slug": "strawberry-smoothie",
+  "title": "Strawberry Banana Smoothie",
+  "category": "drinks",
+  "description": "A creamy, fruity smoothie that's ready in minutes. Great for breakfast or a quick snack.",
+  "image": "https://images.unsplash.com/photo-1553530666-ba11a7da3888?w=800&q=80",
+  "prepTime": "5 min",
+  "cookTime": "0 min",
+  "totalTime": "5 min",
+  "servings": 2,
+  "difficulty": "Easy",
+  "tags": ["drinks", "smoothie", "healthy", "breakfast", "quick"],
+  "ingredients": [
+    { "amount": "1½", "unit": "cups", "item": "frozen strawberries" },
+    { "amount": "1", "unit": "large", "item": "ripe banana", "note": "sliced and frozen" },
+    { "amount": "1", "unit": "cup", "item": "plain Greek yogurt" },
+    { "amount": "½", "unit": "cup", "item": "milk or almond milk" },
+    { "amount": "1", "unit": "tbsp", "item": "honey", "note": "optional" },
+    { "amount": "½", "unit": "tsp", "item": "vanilla extract" }
+  ],
+  "steps": [
+    { "step": 1, "instruction": "Add milk to the blender first (this helps everything blend smoothly)." },
+    { "step": 2, "instruction": "Add yogurt, frozen strawberries, frozen banana, honey, and vanilla." },
+    { "step": 3, "instruction": "Blend on high for 45–60 seconds until completely smooth." },
+    { "step": 4, "instruction": "Taste and adjust — add more honey for sweetness or more milk for a thinner consistency." },
+    { "step": 5, "instruction": "Pour into glasses and serve immediately." }
+  ],
+  "notes": "Freezing the banana before using gives the smoothie a thick, creamy ice-cream-like texture without any ice."
+}

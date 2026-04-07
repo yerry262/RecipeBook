@@ -1,0 +1,40 @@
+{
+  "id": "spaghetti-bolognese",
+  "slug": "spaghetti-bolognese",
+  "title": "Spaghetti Bolognese",
+  "category": "dinner",
+  "description": "A rich, slow-simmered meat sauce that clings to every strand of pasta. A family dinner staple.",
+  "image": "https://images.unsplash.com/photo-1551892374-ecf8754cf8b0?w=800&q=80",
+  "prepTime": "15 min",
+  "cookTime": "1 hr",
+  "totalTime": "1 hr 15 min",
+  "servings": 6,
+  "difficulty": "Medium",
+  "tags": ["dinner", "pasta", "italian", "family favorite", "meal prep"],
+  "ingredients": [
+    { "amount": "1", "unit": "lb", "item": "ground beef (80/20)" },
+    { "amount": "½", "unit": "lb", "item": "ground pork" },
+    { "amount": "1", "unit": "medium", "item": "yellow onion", "note": "finely diced" },
+    { "amount": "3", "unit": "cloves", "item": "garlic", "note": "minced" },
+    { "amount": "2", "unit": "medium", "item": "carrots", "note": "finely diced" },
+    { "amount": "2", "unit": "stalks", "item": "celery", "note": "finely diced" },
+    { "amount": "1", "unit": "can (28oz)", "item": "crushed tomatoes" },
+    { "amount": "2", "unit": "tbsp", "item": "tomato paste" },
+    { "amount": "½", "unit": "cup", "item": "dry red wine" },
+    { "amount": "½", "unit": "cup", "item": "whole milk" },
+    { "amount": "1", "unit": "lb", "item": "spaghetti" },
+    { "amount": "2", "unit": "tbsp", "item": "olive oil" },
+    { "amount": "", "unit": "to serve", "item": "fresh parmesan and basil" }
+  ],
+  "steps": [
+    { "step": 1, "instruction": "Heat olive oil in a large heavy-bottomed pot or Dutch oven over medium heat. Add onion, carrot, and celery. Cook, stirring, for 8 minutes until softened." },
+    { "step": 2, "instruction": "Add garlic and tomato paste, cook 2 minutes." },
+    { "step": 3, "instruction": "Increase heat to medium-high. Add ground beef and pork. Cook, breaking up the meat, until browned. Drain excess fat." },
+    { "step": 4, "instruction": "Pour in the red wine and cook until reduced by half, about 3 minutes." },
+    { "step": 5, "instruction": "Add the crushed tomatoes. Stir to combine, then reduce heat to low. Partially cover and simmer for 45 minutes, stirring occasionally." },
+    { "step": 6, "instruction": "Stir in the milk and simmer 10 more minutes. Season generously with salt and pepper." },
+    { "step": 7, "instruction": "Cook spaghetti in salted boiling water until al dente. Reserve 1 cup pasta water before draining." },
+    { "step": 8, "instruction": "Toss spaghetti with the sauce, adding pasta water as needed to loosen. Serve with freshly grated parmesan and fresh basil." }
+  ],
+  "notes": "The longer this simmers, the better it tastes. Makes great leftovers — the sauce can be made up to 3 days ahead."
+}
