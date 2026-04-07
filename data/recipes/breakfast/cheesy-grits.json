@@ -1,0 +1,33 @@
+{
+  "id": "cheesy-grits",
+  "slug": "cheesy-grits",
+  "title": "Cheesy Grits",
+  "category": "breakfast",
+  "description": "Creamy, comforting stone-ground grits loaded with sharp cheddar and butter. A Southern breakfast classic.",
+  "image": "https://images.unsplash.com/photo-1630373673369-16c18b55a9b4?w=800&q=80",
+  "prepTime": "5 min",
+  "cookTime": "25 min",
+  "totalTime": "30 min",
+  "servings": 2,
+  "difficulty": "Easy",
+  "tags": ["breakfast", "grits", "comfort food", "southern"],
+  "ingredients": [
+    { "amount": "½", "unit": "cup", "item": "stone-ground or quick grits", "note": "not instant if possible" },
+    { "amount": "2", "unit": "cups", "item": "water or low-sodium chicken broth" },
+    { "amount": "½", "unit": "cup", "item": "whole milk" },
+    { "amount": "¼", "unit": "cup", "item": "shredded sharp cheddar cheese" },
+    { "amount": "2", "unit": "tbsp", "item": "unsalted butter" },
+    { "amount": "", "unit": "to taste", "item": "salt and white pepper" },
+    { "amount": "1", "unit": "pinch", "item": "garlic powder", "note": "optional" }
+  ],
+  "steps": [
+    { "step": 1, "instruction": "Bring broth (or water) and milk to a gentle boil in a medium saucepan." },
+    { "step": 2, "instruction": "Slowly whisk in grits to avoid clumping. Reduce heat to low." },
+    { "step": 3, "instruction": "Cook, stirring frequently, for 20–25 minutes until grits are completely soft and swollen." },
+    { "step": 4, "instruction": "Remove from heat. Stir in butter and cheese until fully melted and incorporated." },
+    { "step": 5, "instruction": "Season with salt, white pepper, and garlic powder if using." },
+    { "step": 6, "instruction": "If grits are too stiff, stir in 1–2 tbsp additional warm milk." },
+    { "step": 7, "instruction": "Serve immediately, stirring before serving to ensure no lumps remain." }
+  ],
+  "notes": "Cheese adds protein while improving the creamy texture. Stone-ground grits take longer to cook but have the best flavor."
+}

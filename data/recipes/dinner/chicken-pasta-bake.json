@@ -1,0 +1,40 @@
+{
+  "id": "chicken-pasta-bake",
+  "slug": "chicken-pasta-bake",
+  "title": "Chicken Pasta Bake",
+  "category": "dinner",
+  "description": "Creamy baked pasta with chicken, mozzarella, and a rich cream of chicken sauce. The ultimate comfort casserole.",
+  "image": "https://images.unsplash.com/photo-1592417817098-8fd3d9eb14a5?w=800&q=80",
+  "prepTime": "15 min",
+  "cookTime": "40 min",
+  "totalTime": "55 min",
+  "servings": 6,
+  "difficulty": "Medium",
+  "tags": ["dinner", "pasta", "chicken", "casserole", "family favorite"],
+  "ingredients": [
+    { "amount": "3", "unit": "cups", "item": "penne or rotini pasta", "note": "uncooked" },
+    { "amount": "2", "unit": "cups", "item": "cooked chicken breast", "note": "diced or shredded" },
+    { "amount": "1", "unit": "can (10.5 oz)", "item": "cream of chicken soup" },
+    { "amount": "1", "unit": "cup", "item": "chicken broth" },
+    { "amount": "1", "unit": "cup", "item": "sour cream" },
+    { "amount": "½", "unit": "cup", "item": "whole milk" },
+    { "amount": "1½", "unit": "cups", "item": "shredded mozzarella cheese", "note": "divided" },
+    { "amount": "½", "unit": "cup", "item": "shredded Parmesan cheese" },
+    { "amount": "1", "unit": "tsp", "item": "garlic powder" },
+    { "amount": "1", "unit": "tsp", "item": "Italian seasoning" },
+    { "amount": "½", "unit": "tsp", "item": "onion powder" },
+    { "amount": "", "unit": "to taste", "item": "salt and black pepper" },
+    { "amount": "1", "unit": "cup", "item": "frozen peas or diced roasted red peppers", "note": "optional" }
+  ],
+  "steps": [
+    { "step": 1, "instruction": "Preheat oven to 375°F. Grease a 9x13 inch baking dish." },
+    { "step": 2, "instruction": "Cook pasta in salted boiling water for 2 minutes less than package directions. Drain and set aside." },
+    { "step": 3, "instruction": "In a large bowl, whisk together cream of chicken soup, chicken broth, sour cream, milk, garlic powder, Italian seasoning, and onion powder until smooth." },
+    { "step": 4, "instruction": "Add cooked chicken, drained pasta, and 1 cup of mozzarella to the sauce. Stir to combine thoroughly. Add peas or red peppers if using." },
+    { "step": 5, "instruction": "Season with salt and pepper. Pour into the prepared baking dish and spread evenly." },
+    { "step": 6, "instruction": "Top with remaining mozzarella and all of the Parmesan." },
+    { "step": 7, "instruction": "Cover with foil and bake for 25 minutes. Remove foil and bake an additional 10–15 minutes until bubbling and golden on top." },
+    { "step": 8, "instruction": "Let rest for 5–10 minutes before serving. The dish will firm up slightly as it rests." }
+  ],
+  "notes": "Cook the pasta slightly less than the package says — it will finish cooking in the oven and won't get mushy."
+}

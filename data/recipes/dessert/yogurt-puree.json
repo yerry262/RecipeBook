@@ -1,0 +1,29 @@
+{
+  "id": "yogurt-puree",
+  "slug": "yogurt-puree",
+  "title": "Strawberry Yogurt Puree",
+  "category": "dessert",
+  "description": "Silky smooth blended strawberry and Greek yogurt — naturally sweet, protein-rich, and beautifully pink.",
+  "image": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=800&q=80",
+  "prepTime": "10 min",
+  "cookTime": "5 min",
+  "totalTime": "15 min",
+  "servings": 2,
+  "difficulty": "Easy",
+  "tags": ["dessert", "yogurt", "strawberry", "healthy", "quick"],
+  "ingredients": [
+    { "amount": "½", "unit": "cup", "item": "fresh or frozen strawberries", "note": "hulled" },
+    { "amount": "½", "unit": "cup", "item": "plain full-fat yogurt or Greek yogurt", "note": "avoid flavored yogurts with chunks" },
+    { "amount": "1", "unit": "tsp", "item": "honey or agave", "note": "optional" },
+    { "amount": "1", "unit": "tbsp", "item": "milk or cream", "note": "if needed for consistency" }
+  ],
+  "steps": [
+    { "step": 1, "instruction": "If using fresh strawberries, hull and slice them. If using frozen, thaw fully first." },
+    { "step": 2, "instruction": "For fresh strawberries: briefly heat in a small saucepan with 1 tsp water for 3–5 minutes to soften." },
+    { "step": 3, "instruction": "Add strawberries and yogurt to blender." },
+    { "step": 4, "instruction": "Blend on high for 60 seconds until very smooth." },
+    { "step": 5, "instruction": "Stir in honey if desired. Add milk or cream if the consistency is too thick." },
+    { "step": 6, "instruction": "Serve immediately or refrigerate. Stir before serving." }
+  ],
+  "notes": "Greek yogurt provides great protein per serving. Full-fat yogurt gives a richer, creamier texture. This doubles as a great breakfast or snack."
+}

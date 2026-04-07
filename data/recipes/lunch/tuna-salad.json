@@ -1,0 +1,34 @@
+{
+  "id": "tuna-salad",
+  "slug": "tuna-salad",
+  "title": "Tuna Salad",
+  "category": "lunch",
+  "description": "Creamy, flavorful tuna salad made with mayo, Greek yogurt, and Dijon mustard. Perfect on bread or crackers.",
+  "image": "https://images.unsplash.com/photo-1551248429-40975aa4de74?w=800&q=80",
+  "prepTime": "10 min",
+  "cookTime": "0 min",
+  "totalTime": "10 min",
+  "servings": 2,
+  "difficulty": "Easy",
+  "tags": ["lunch", "tuna", "salad", "quick", "no-cook"],
+  "ingredients": [
+    { "amount": "1", "unit": "can (5 oz)", "item": "tuna in water", "note": "well drained" },
+    { "amount": "2–3", "unit": "tbsp", "item": "mayonnaise", "note": "full-fat for moisture" },
+    { "amount": "1", "unit": "tbsp", "item": "plain Greek yogurt" },
+    { "amount": "1", "unit": "tsp", "item": "Dijon mustard" },
+    { "amount": "1", "unit": "tsp", "item": "lemon juice" },
+    { "amount": "¼", "unit": "tsp", "item": "garlic powder" },
+    { "amount": "¼", "unit": "tsp", "item": "onion powder" },
+    { "amount": "", "unit": "to taste", "item": "salt and white pepper" },
+    { "amount": "1", "unit": "tsp", "item": "finely minced fresh dill", "note": "optional, no stems" }
+  ],
+  "steps": [
+    { "step": 1, "instruction": "Drain tuna thoroughly. Place in a bowl and use a fork to break it into fine flakes." },
+    { "step": 2, "instruction": "Add mayonnaise, Greek yogurt, mustard, lemon juice, and all seasonings." },
+    { "step": 3, "instruction": "Mix vigorously until the tuna is well-coated and the mixture is cohesive and moist." },
+    { "step": 4, "instruction": "If the mixture feels dry, add an additional 1 tsp mayonnaise and mix again." },
+    { "step": 5, "instruction": "If using dill, mince extremely finely and fold in." },
+    { "step": 6, "instruction": "Taste and adjust seasoning. Serve immediately or refrigerate up to 24 hours." }
+  ],
+  "notes": "Full-fat mayonnaise keeps the mixture moist and cohesive. Greek yogurt adds extra protein and creaminess."
+}

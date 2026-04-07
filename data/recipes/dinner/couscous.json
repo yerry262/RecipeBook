@@ -1,0 +1,34 @@
+{
+  "id": "couscous",
+  "slug": "couscous",
+  "title": "Seasoned Couscous",
+  "category": "dinner",
+  "description": "Fluffy, well-seasoned couscous cooked in warm broth with cumin and garlic. Ready in minutes.",
+  "image": "https://images.unsplash.com/photo-1512058564366-18510be2db19?w=800&q=80",
+  "prepTime": "5 min",
+  "cookTime": "10 min",
+  "totalTime": "15 min",
+  "servings": 2,
+  "difficulty": "Easy",
+  "tags": ["dinner", "couscous", "side dish", "quick", "vegetarian"],
+  "ingredients": [
+    { "amount": "½", "unit": "cup", "item": "couscous", "note": "fine or regular — not pearl/Israeli couscous" },
+    { "amount": "¾", "unit": "cup", "item": "low-sodium chicken or vegetable broth", "note": "heated, plus extra if needed" },
+    { "amount": "1", "unit": "tbsp", "item": "olive oil or butter" },
+    { "amount": "¼", "unit": "tsp", "item": "cumin" },
+    { "amount": "¼", "unit": "tsp", "item": "garlic powder" },
+    { "amount": "¼", "unit": "tsp", "item": "onion powder" },
+    { "amount": "", "unit": "to taste", "item": "salt" },
+    { "amount": "2–3", "unit": "tbsp", "item": "additional warm broth", "note": "for serving" }
+  ],
+  "steps": [
+    { "step": 1, "instruction": "Heat broth until just simmering. Add olive oil or butter and all seasonings." },
+    { "step": 2, "instruction": "Pour couscous into a bowl. Pour hot broth over couscous." },
+    { "step": 3, "instruction": "Cover tightly with plastic wrap or a plate. Let rest for 8–10 minutes until fully absorbed." },
+    { "step": 4, "instruction": "Fluff gently with a fork. Check that all grains are fully softened." },
+    { "step": 5, "instruction": "If any grains feel firm, add 2 tbsp more hot broth, re-cover, and rest 3–4 more minutes." },
+    { "step": 6, "instruction": "Before serving, stir in 2–3 tbsp additional warm broth so the couscous is visibly moist." },
+    { "step": 7, "instruction": "Serve in a bowl with extra broth spooned over the top if desired." }
+  ],
+  "notes": "Serving with extra warm broth prevents the couscous from drying out and keeps it perfectly moist."
+}

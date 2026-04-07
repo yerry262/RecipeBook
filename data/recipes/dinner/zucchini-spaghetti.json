@@ -1,0 +1,32 @@
+{
+  "id": "zucchini-spaghetti",
+  "slug": "zucchini-spaghetti",
+  "title": "Zucchini Spaghetti",
+  "category": "dinner",
+  "description": "Tender cooked zucchini tossed in smooth marinara sauce and finished with Parmesan. A light and satisfying dinner.",
+  "image": "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?w=800&q=80",
+  "prepTime": "10 min",
+  "cookTime": "15 min",
+  "totalTime": "25 min",
+  "servings": 2,
+  "difficulty": "Easy",
+  "tags": ["dinner", "zucchini", "vegetarian", "low-carb", "italian"],
+  "ingredients": [
+    { "amount": "2", "unit": "medium", "item": "zucchini", "note": "peeled" },
+    { "amount": "2", "unit": "tbsp", "item": "olive oil or butter" },
+    { "amount": "½", "unit": "cup", "item": "marinara or pasta sauce", "note": "smooth, no chunky vegetables" },
+    { "amount": "¼", "unit": "tsp", "item": "garlic powder" },
+    { "amount": "", "unit": "to taste", "item": "salt and white pepper" },
+    { "amount": "2", "unit": "tbsp", "item": "grated Parmesan cheese", "note": "finely grated, not shredded" }
+  ],
+  "steps": [
+    { "step": 1, "instruction": "Peel zucchini completely. Dice into rough ½-inch cubes." },
+    { "step": 2, "instruction": "Steam or boil for 10–12 minutes until completely soft." },
+    { "step": 3, "instruction": "Drain well. Using a fork or potato masher, mash the zucchini until broken into small irregular bits. Do not puree — keep some texture." },
+    { "step": 4, "instruction": "Heat olive oil or butter in a skillet over medium-low. Add mashed zucchini and cook 2 minutes to remove excess moisture." },
+    { "step": 5, "instruction": "Add smooth marinara sauce, garlic powder, salt, and pepper. Stir and heat through." },
+    { "step": 6, "instruction": "The dish should be moist and well-coated with sauce — add 1–2 tbsp water or broth if too thick." },
+    { "step": 7, "instruction": "Top with finely grated Parmesan before serving." }
+  ],
+  "notes": "Use a smooth marinara sauce for the best result — chunky tomato sauces with big vegetable pieces change the texture completely."
+}

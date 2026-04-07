@@ -1,0 +1,37 @@
+{
+  "id": "taco-bowl",
+  "slug": "taco-bowl",
+  "title": "Taco Bowl",
+  "category": "dinner",
+  "description": "Seasoned ground beef over creamy rice, finished with shredded cheese and sour cream. All the taco flavors in a bowl.",
+  "image": "https://images.unsplash.com/photo-1534080427896-f6c1f1615a75?w=800&q=80",
+  "prepTime": "10 min",
+  "cookTime": "20 min",
+  "totalTime": "30 min",
+  "servings": 2,
+  "difficulty": "Easy",
+  "tags": ["dinner", "tacos", "beef", "rice bowl", "mexican"],
+  "ingredients": [
+    { "amount": "½", "unit": "lb", "item": "lean ground beef", "note": "85/15 or leaner" },
+    { "amount": "1", "unit": "tsp", "item": "chili powder" },
+    { "amount": "½", "unit": "tsp", "item": "cumin" },
+    { "amount": "½", "unit": "tsp", "item": "garlic powder" },
+    { "amount": "½", "unit": "tsp", "item": "onion powder" },
+    { "amount": "", "unit": "to taste", "item": "salt" },
+    { "amount": "2–3", "unit": "tbsp", "item": "low-sodium beef broth or tomato sauce", "note": "to moisten the meat" },
+    { "amount": "½", "unit": "cup", "item": "long-grain white rice" },
+    { "amount": "1", "unit": "cup", "item": "water or low-sodium broth", "note": "for cooking rice" },
+    { "amount": "¼", "unit": "cup", "item": "heavy cream or milk", "note": "to cream the rice" },
+    { "amount": "2", "unit": "tbsp", "item": "shredded cheddar cheese", "note": "fine shred" },
+    { "amount": "2", "unit": "tbsp", "item": "sour cream" }
+  ],
+  "steps": [
+    { "step": 1, "instruction": "Cook rice in broth or water according to package directions until very soft. Drain if needed." },
+    { "step": 2, "instruction": "Stir heavy cream or milk into hot rice. Simmer on low for 3–4 minutes, stirring frequently, until thick and creamy. Remove from heat." },
+    { "step": 3, "instruction": "Brown ground beef in a skillet over medium heat, breaking into very fine crumbles as it cooks." },
+    { "step": 4, "instruction": "Drain all fat. Return pan to heat and add broth or tomato sauce and all spices. Stir well and cook 2–3 minutes until liquid is absorbed but meat remains moist." },
+    { "step": 5, "instruction": "To assemble: place creamed rice in a bowl as the base. Spoon moist taco beef over rice." },
+    { "step": 6, "instruction": "Top with finely shredded cheese and a dollop of sour cream. Stir together before serving." }
+  ],
+  "notes": "The creamed rice acts as a binding base, keeping the dish cohesive and delicious. Sour cream and cheese add great richness."
+}

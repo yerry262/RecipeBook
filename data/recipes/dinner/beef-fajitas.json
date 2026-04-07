@@ -1,0 +1,41 @@
+{
+  "id": "beef-fajitas",
+  "slug": "beef-fajitas",
+  "title": "Beef Fajitas",
+  "category": "dinner",
+  "description": "Sizzling marinated flank steak with charred peppers and onions, served on warm soft flour tortillas.",
+  "image": "https://images.unsplash.com/photo-1618040996337-56904b7850b9?w=800&q=80",
+  "prepTime": "15 min",
+  "cookTime": "15 min",
+  "totalTime": "1 hr (includes marinating)",
+  "servings": 4,
+  "difficulty": "Medium",
+  "tags": ["dinner", "fajitas", "beef", "mexican", "family favorite"],
+  "ingredients": [
+    { "amount": "1½", "unit": "lbs", "item": "flank steak or skirt steak" },
+    { "amount": "3", "unit": "tbsp", "item": "olive oil", "note": "divided" },
+    { "amount": "", "unit": "juice of 2", "item": "limes" },
+    { "amount": "3", "unit": "cloves", "item": "garlic", "note": "minced" },
+    { "amount": "1½", "unit": "tsp", "item": "cumin" },
+    { "amount": "1", "unit": "tsp", "item": "chili powder" },
+    { "amount": "1", "unit": "tsp", "item": "smoked paprika" },
+    { "amount": "½", "unit": "tsp", "item": "oregano" },
+    { "amount": "½", "unit": "tsp", "item": "salt and black pepper" },
+    { "amount": "2", "unit": "", "item": "bell peppers", "note": "red, yellow, or green, sliced into strips" },
+    { "amount": "1", "unit": "large", "item": "onion", "note": "sliced into half-rings" },
+    { "amount": "8", "unit": "medium", "item": "flour tortillas", "note": "soft, not crispy" },
+    { "amount": "", "unit": "to serve", "item": "sour cream, guacamole, shredded cheese, salsa, lime wedges, fresh cilantro" }
+  ],
+  "steps": [
+    { "step": 1, "instruction": "Prepare marinade: whisk together 2 tbsp olive oil, lime juice, garlic, and all spices in a shallow dish or zip-lock bag." },
+    { "step": 2, "instruction": "Add steak to marinade. Turn to coat. Marinate at room temperature for 30 minutes, or covered in the refrigerator for up to 4 hours." },
+    { "step": 3, "instruction": "Heat a cast iron skillet or grill pan over high heat until very hot and just beginning to smoke." },
+    { "step": 4, "instruction": "Remove steak from marinade and pat lightly dry. Cook steak 4–5 minutes per side for medium. Do not move the steak while cooking — let it sear undisturbed." },
+    { "step": 5, "instruction": "Remove steak from pan. Rest on a cutting board for 5–8 minutes — this is essential for juicy meat." },
+    { "step": 6, "instruction": "While steak rests, add remaining 1 tbsp olive oil to the same pan over medium-high heat. Add peppers and onions with a pinch of salt. Sauté 5–7 minutes until soft and lightly charred." },
+    { "step": 7, "instruction": "Slice steak across the grain into thin strips. This is critical for tenderness." },
+    { "step": 8, "instruction": "Warm tortillas: wrap in a damp paper towel and microwave for 30–45 seconds, or warm directly in a dry skillet for 20 seconds per side." },
+    { "step": 9, "instruction": "Serve steak and vegetables on warm tortillas with desired toppings." }
+  ],
+  "notes": "Always slice steak against the grain — cutting across the muscle fibers makes the meat significantly more tender."
+}

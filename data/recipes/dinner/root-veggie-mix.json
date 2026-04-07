@@ -1,0 +1,33 @@
+{
+  "id": "root-veggie-mix",
+  "slug": "root-veggie-mix",
+  "title": "Root Veggie Mix",
+  "category": "dinner",
+  "description": "A colorful medley of steamed carrots, parsnip, sweet potato, and turnip glazed in butter and thyme.",
+  "image": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=800&q=80",
+  "prepTime": "15 min",
+  "cookTime": "30 min",
+  "totalTime": "45 min",
+  "servings": 4,
+  "difficulty": "Easy",
+  "tags": ["dinner", "vegetables", "side dish", "healthy", "vegetarian"],
+  "ingredients": [
+    { "amount": "1", "unit": "medium", "item": "carrot", "note": "peeled and diced into ½-inch pieces" },
+    { "amount": "1", "unit": "medium", "item": "parsnip", "note": "peeled and diced into ½-inch pieces" },
+    { "amount": "1", "unit": "medium", "item": "sweet potato", "note": "peeled and diced into ½-inch pieces" },
+    { "amount": "1", "unit": "small", "item": "turnip", "note": "peeled and diced into ½-inch pieces" },
+    { "amount": "2", "unit": "tbsp", "item": "butter or olive oil" },
+    { "amount": "¼", "unit": "cup", "item": "low-sodium chicken or vegetable broth" },
+    { "amount": "½", "unit": "tsp", "item": "dried thyme", "note": "rubbed fine — no whole leaves or stems" },
+    { "amount": "", "unit": "to taste", "item": "salt and white pepper" }
+  ],
+  "steps": [
+    { "step": 1, "instruction": "Peel and dice all vegetables into ½-inch cubes, cutting uniformly so they cook evenly." },
+    { "step": 2, "instruction": "Place all vegetables in a steamer basket over boiling water. Steam for 20–25 minutes until a fork slides through with no resistance." },
+    { "step": 3, "instruction": "Alternatively, boil in low-sodium broth until very tender, then drain." },
+    { "step": 4, "instruction": "Heat butter or oil in a wide skillet. Add steamed vegetables and toss gently to coat." },
+    { "step": 5, "instruction": "Add broth and thyme. Cook 3–4 minutes over medium-low until vegetables are glazed and extra liquid is reduced." },
+    { "step": 6, "instruction": "Season with salt and white pepper. Serve warm and moist with extra butter or broth spooned over." }
+  ],
+  "notes": "Cut all pieces the same size before cooking — uneven sizing leads to some pieces being undercooked while others are overdone."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "titos-lemonade",
+  "slug": "titos-lemonade",
+  "title": "Tito's Lemonade",
+  "category": "drinks",
+  "description": "Crisp, refreshing vodka lemonade made with fresh-squeezed lemons and Tito's Handmade Vodka. Clean, simple, and incredibly drinkable.",
+  "image": "https://images.unsplash.com/photo-1621263764928-df1444c5e859?w=800&q=80",
+  "prepTime": "5 min",
+  "cookTime": "0 min",
+  "totalTime": "5 min",
+  "servings": 1,
+  "difficulty": "Easy",
+  "tags": ["drinks", "cocktail", "vodka", "lemon", "titos", "summer", "refreshing"],
+  "ingredients": [
+    { "amount": "2", "unit": "oz", "item": "Tito's Handmade Vodka" },
+    { "amount": "1", "unit": "oz", "item": "fresh lemon juice", "note": "about 1 large lemon" },
+    { "amount": "4", "unit": "oz", "item": "cold water or club soda" },
+    { "amount": "1", "unit": "tsp", "item": "honey", "note": "dissolved in a small splash of warm water" },
+    { "amount": "", "unit": "to garnish", "item": "lemon wheel, fresh mint, and ice" }
+  ],
+  "steps": [
+    { "step": 1, "instruction": "Fill a glass with ice." },
+    { "step": 2, "instruction": "Dissolve honey in a small splash of warm water, stir until fully liquid." },
+    { "step": 3, "instruction": "Squeeze lemon juice into the glass, discarding seeds." },
+    { "step": 4, "instruction": "Add Tito's Vodka and honey water. Stir well to combine." },
+    { "step": 5, "instruction": "Top with cold water (for a still version) or club soda (for a sparkling version). Stir gently." },
+    { "step": 6, "instruction": "Garnish with a lemon wheel and fresh mint. Serve immediately." }
+  ],
+  "notes": "Using fresh lemon juice instead of pre-made lemonade makes all the difference — it's brighter and less sweet. Club soda adds a great effervescent finish."
+}

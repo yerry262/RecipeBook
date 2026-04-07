@@ -1,0 +1,36 @@
+{
+  "id": "baked-potato",
+  "slug": "baked-potato",
+  "title": "Baked Potato",
+  "category": "dinner",
+  "description": "Classic oven-baked russet potatoes with crispy skin and fluffy interior, loaded with your favorite toppings.",
+  "image": "https://images.unsplash.com/photo-1568565436382-f84a9ea5f35e?w=800&q=80",
+  "prepTime": "5 min",
+  "cookTime": "60 min",
+  "totalTime": "1 hr 5 min",
+  "servings": 4,
+  "difficulty": "Easy",
+  "tags": ["dinner", "potato", "comfort food", "side dish"],
+  "ingredients": [
+    { "amount": "4", "unit": "large", "item": "russet potatoes", "note": "scrubbed clean" },
+    { "amount": "2", "unit": "tbsp", "item": "olive oil" },
+    { "amount": "", "unit": "as needed", "item": "coarse salt for skin" },
+    { "amount": "2", "unit": "tbsp per potato", "item": "unsalted butter" },
+    { "amount": "2–3", "unit": "tbsp per potato", "item": "sour cream" },
+    { "amount": "¼", "unit": "cup per potato", "item": "shredded cheddar cheese" },
+    { "amount": "2", "unit": "tbsp per potato", "item": "cooked bacon bits or crumbled bacon", "note": "optional" },
+    { "amount": "1", "unit": "tbsp per potato", "item": "sliced green onions", "note": "optional" },
+    { "amount": "", "unit": "optional", "item": "steamed broccoli florets or warmed chili" }
+  ],
+  "steps": [
+    { "step": 1, "instruction": "Preheat oven to 400°F." },
+    { "step": 2, "instruction": "Scrub potatoes well. Pat dry with a paper towel." },
+    { "step": 3, "instruction": "Rub each potato all over with olive oil. Season generously with coarse salt." },
+    { "step": 4, "instruction": "Pierce each potato 6–8 times with a fork to allow steam to escape." },
+    { "step": 5, "instruction": "Place directly on the oven rack (or on a baking sheet). Bake for 50–60 minutes until a fork slides easily into the center with no resistance." },
+    { "step": 6, "instruction": "Remove from oven. Cut a deep cross into the top of each potato and squeeze the ends toward the center to open up and fluff the interior." },
+    { "step": 7, "instruction": "Add a pat of butter immediately so it melts into the hot potato." },
+    { "step": 8, "instruction": "Top with desired toppings — sour cream, cheese, bacon, green onions, broccoli, and/or chili. Serve immediately while hot." }
+  ],
+  "notes": "Placing the potatoes directly on the oven rack instead of a baking sheet allows heat to circulate all around for a crispier skin."
+}

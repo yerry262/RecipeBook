@@ -1,0 +1,37 @@
+{
+  "id": "carrot-souffle",
+  "slug": "carrot-souffle",
+  "title": "Carrot Soufflé",
+  "category": "dessert",
+  "description": "Light, sweet, and perfectly spiced baked carrot soufflé. Somewhere between a dessert and a side dish — irresistibly good.",
+  "image": "https://images.unsplash.com/photo-1510693206972-df098062cb71?w=800&q=80",
+  "prepTime": "20 min",
+  "cookTime": "50 min",
+  "totalTime": "1 hr 10 min",
+  "servings": 6,
+  "difficulty": "Medium",
+  "tags": ["dessert", "carrot", "baked", "thanksgiving", "vegetarian"],
+  "ingredients": [
+    { "amount": "2", "unit": "cups", "item": "carrots", "note": "peeled and sliced, approx. 4–5 medium carrots" },
+    { "amount": "3", "unit": "large", "item": "eggs" },
+    { "amount": "¼", "unit": "cup", "item": "unsalted butter", "note": "melted" },
+    { "amount": "½", "unit": "cup", "item": "sugar or sweetener of choice" },
+    { "amount": "3", "unit": "tbsp", "item": "all-purpose flour" },
+    { "amount": "1", "unit": "tsp", "item": "baking powder" },
+    { "amount": "½", "unit": "tsp", "item": "vanilla extract" },
+    { "amount": "¼", "unit": "tsp", "item": "ground cinnamon" },
+    { "amount": "1", "unit": "pinch", "item": "salt" }
+  ],
+  "steps": [
+    { "step": 1, "instruction": "Preheat oven to 350°F (175°C). Grease a 1.5-quart baking dish." },
+    { "step": 2, "instruction": "Peel, slice, and boil carrots for 15–20 minutes until very tender — they should mash easily with a fork." },
+    { "step": 3, "instruction": "Drain carrots thoroughly and allow steam to escape for 2–3 minutes." },
+    { "step": 4, "instruction": "Transfer carrots to blender and puree on high until completely smooth." },
+    { "step": 5, "instruction": "Add melted butter, eggs, sugar, flour, baking powder, vanilla, cinnamon, and salt to the blender." },
+    { "step": 6, "instruction": "Blend again for 30–45 seconds until fully combined and smooth." },
+    { "step": 7, "instruction": "Pour mixture into the greased baking dish." },
+    { "step": 8, "instruction": "Bake for 45–50 minutes until set in the center (a toothpick should come out clean)." },
+    { "step": 9, "instruction": "Allow to cool for 10 minutes before serving. Serve warm." }
+  ],
+  "notes": "This soufflé walks the line between a sweet side dish and a dessert — perfect alongside Thanksgiving turkey or as a stand-alone treat."
+}

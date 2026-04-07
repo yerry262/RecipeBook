@@ -1,0 +1,41 @@
+{
+  "id": "spaghetti",
+  "slug": "spaghetti",
+  "title": "Spaghetti with Meat Sauce",
+  "category": "dinner",
+  "description": "Hearty spaghetti with a rich, slow-simmered meat sauce made from ground beef, crushed tomatoes, and Italian seasonings.",
+  "image": "https://images.unsplash.com/photo-1555949258-eb67b1ef0ceb?w=800&q=80",
+  "prepTime": "10 min",
+  "cookTime": "40 min",
+  "totalTime": "50 min",
+  "servings": 4,
+  "difficulty": "Medium",
+  "tags": ["dinner", "pasta", "italian", "spaghetti", "family favorite"],
+  "ingredients": [
+    { "amount": "1", "unit": "lb", "item": "lean ground beef", "note": "or a mix of beef and mild Italian sausage" },
+    { "amount": "1", "unit": "medium", "item": "onion", "note": "finely diced" },
+    { "amount": "4", "unit": "cloves", "item": "garlic", "note": "minced" },
+    { "amount": "1", "unit": "can (28 oz)", "item": "crushed tomatoes" },
+    { "amount": "1", "unit": "can (6 oz)", "item": "tomato paste" },
+    { "amount": "½", "unit": "cup", "item": "beef broth or red wine" },
+    { "amount": "2", "unit": "tsp", "item": "Italian seasoning" },
+    { "amount": "1", "unit": "tsp", "item": "sugar" },
+    { "amount": "½", "unit": "tsp", "item": "red pepper flakes", "note": "optional" },
+    { "amount": "", "unit": "to taste", "item": "salt and black pepper" },
+    { "amount": "2", "unit": "tbsp", "item": "olive oil" },
+    { "amount": "12", "unit": "oz", "item": "spaghetti" },
+    { "amount": "", "unit": "to serve", "item": "grated Parmesan cheese and fresh basil" }
+  ],
+  "steps": [
+    { "step": 1, "instruction": "Heat olive oil in a large, deep skillet or Dutch oven over medium heat. Add diced onion and cook 5–6 minutes until softened and translucent." },
+    { "step": 2, "instruction": "Add garlic and cook 1 minute until fragrant." },
+    { "step": 3, "instruction": "Add ground beef (and sausage if using). Cook over medium-high heat, breaking into fine pieces, until browned and cooked through. Drain excess fat." },
+    { "step": 4, "instruction": "Stir in tomato paste and cook for 2 minutes, stirring constantly, to caramelize slightly." },
+    { "step": 5, "instruction": "Add crushed tomatoes, broth or wine, Italian seasoning, sugar, red pepper flakes if using, salt, and pepper. Stir well." },
+    { "step": 6, "instruction": "Reduce heat to low. Simmer uncovered for 25–30 minutes, stirring occasionally, until sauce is thickened and flavors are developed." },
+    { "step": 7, "instruction": "Meanwhile, cook spaghetti in generously salted boiling water according to package directions until al dente. Reserve ½ cup pasta cooking water before draining." },
+    { "step": 8, "instruction": "Add drained pasta directly to the sauce in the pan. Toss well, adding a splash of pasta water if needed to loosen the sauce." },
+    { "step": 9, "instruction": "Serve in bowls. Top with fresh basil and grated Parmesan." }
+  ],
+  "notes": "Adding pasta water to the sauce helps it cling beautifully to every strand of spaghetti. The starch in the water acts as a natural binder."
+}

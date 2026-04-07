@@ -1,0 +1,41 @@
+{
+  "id": "tres-leches-cake",
+  "slug": "tres-leches-cake",
+  "title": "Tres Leches Cake",
+  "category": "dessert",
+  "description": "A light sponge cake soaked in three milks until impossibly moist, topped with whipped cream. A Mexican dessert classic.",
+  "image": "https://images.unsplash.com/photo-1562440499-64c9a111f713?w=800&q=80",
+  "prepTime": "30 min",
+  "cookTime": "30 min",
+  "totalTime": "3 hr (includes soaking)",
+  "servings": 12,
+  "difficulty": "Medium",
+  "tags": ["dessert", "cake", "mexican", "baking", "tres leches"],
+  "ingredients": [
+    { "amount": "1", "unit": "cup", "item": "all-purpose flour" },
+    { "amount": "1", "unit": "tsp", "item": "baking powder" },
+    { "amount": "5", "unit": "large", "item": "eggs", "note": "separated" },
+    { "amount": "1", "unit": "cup", "item": "sugar", "note": "divided: ¾ cup + ¼ cup" },
+    { "amount": "⅓", "unit": "cup", "item": "whole milk" },
+    { "amount": "1", "unit": "tsp", "item": "vanilla extract" },
+    { "amount": "1", "unit": "can (12 oz)", "item": "evaporated milk", "note": "for three-milk soak" },
+    { "amount": "1", "unit": "can (14 oz)", "item": "sweetened condensed milk", "note": "for three-milk soak" },
+    { "amount": "1", "unit": "cup", "item": "heavy cream", "note": "for three-milk soak" },
+    { "amount": "1", "unit": "cup", "item": "heavy whipping cream", "note": "for topping" },
+    { "amount": "2", "unit": "tbsp", "item": "powdered sugar", "note": "for topping" },
+    { "amount": "½", "unit": "tsp", "item": "vanilla extract", "note": "for topping" }
+  ],
+  "steps": [
+    { "step": 1, "instruction": "Preheat oven to 350°F. Grease and flour a 9x13 inch baking pan." },
+    { "step": 2, "instruction": "Beat egg yolks with ¾ cup sugar until thick and pale. Mix in milk and vanilla." },
+    { "step": 3, "instruction": "Fold in flour and baking powder gently." },
+    { "step": 4, "instruction": "In a separate bowl, beat egg whites to soft peaks. Gradually add ¼ cup sugar and beat to stiff peaks." },
+    { "step": 5, "instruction": "Fold egg whites into batter in three additions. Pour into prepared pan." },
+    { "step": 6, "instruction": "Bake 25–30 minutes until a toothpick comes out clean. Cool completely in pan." },
+    { "step": 7, "instruction": "Using a fork or skewer, poke holes all over the top of the cooled cake — approximately every ½ inch." },
+    { "step": 8, "instruction": "Whisk together evaporated milk, condensed milk, and heavy cream. Pour slowly over the cake, allowing it to absorb fully. Refrigerate at least 2 hours (overnight preferred)." },
+    { "step": 9, "instruction": "Whip heavy cream with powdered sugar and vanilla to soft peaks. Spread over the fully soaked cake." },
+    { "step": 10, "instruction": "Slice and serve chilled. Trim any dry edges before serving for the best texture." }
+  ],
+  "notes": "Overnight refrigeration is strongly preferred — the longer it soaks, the more moist and flavorful the cake becomes. Always trim the dry browned edges before serving."
+}

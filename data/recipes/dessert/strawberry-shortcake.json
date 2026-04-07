@@ -1,0 +1,42 @@
+{
+  "id": "strawberry-shortcake",
+  "slug": "strawberry-shortcake",
+  "title": "Strawberry Shortcake",
+  "category": "dessert",
+  "description": "Buttery homemade shortcakes split and layered with macerated strawberries and fresh whipped cream. A summer showstopper.",
+  "image": "https://images.unsplash.com/photo-1464305795204-6f5bbfc7fb81?w=800&q=80",
+  "prepTime": "30 min",
+  "cookTime": "18 min",
+  "totalTime": "1 hr",
+  "servings": 6,
+  "difficulty": "Medium",
+  "tags": ["dessert", "strawberry", "shortcake", "baking", "summer"],
+  "ingredients": [
+    { "amount": "2", "unit": "cups", "item": "all-purpose flour" },
+    { "amount": "¼", "unit": "cup", "item": "sugar", "note": "plus extra for sprinkling" },
+    { "amount": "1", "unit": "tbsp", "item": "baking powder" },
+    { "amount": "½", "unit": "tsp", "item": "salt" },
+    { "amount": "6", "unit": "tbsp", "item": "cold unsalted butter", "note": "cubed" },
+    { "amount": "¾", "unit": "cup", "item": "heavy cream", "note": "plus more for brushing" },
+    { "amount": "1", "unit": "tsp", "item": "vanilla extract" },
+    { "amount": "2", "unit": "lbs", "item": "fresh strawberries", "note": "hulled and sliced, for filling" },
+    { "amount": "3", "unit": "tbsp", "item": "sugar", "note": "for strawberry filling" },
+    { "amount": "1", "unit": "tsp", "item": "lemon juice", "note": "for strawberry filling" },
+    { "amount": "1", "unit": "cup", "item": "heavy whipping cream", "note": "for whipped cream topping" },
+    { "amount": "2", "unit": "tbsp", "item": "powdered sugar", "note": "for whipped cream" },
+    { "amount": "½", "unit": "tsp", "item": "vanilla extract", "note": "for whipped cream" }
+  ],
+  "steps": [
+    { "step": 1, "instruction": "Preheat oven to 425°F. Line a baking sheet with parchment paper." },
+    { "step": 2, "instruction": "Prepare strawberries: combine sliced strawberries, sugar, and lemon juice in a bowl. Toss well and let macerate at room temperature for at least 20 minutes, stirring occasionally, until juicy." },
+    { "step": 3, "instruction": "Make shortcakes: whisk flour, sugar, baking powder, and salt in a large bowl." },
+    { "step": 4, "instruction": "Cut cold butter into the flour mixture using a pastry cutter or fingers until it resembles coarse crumbs with pea-sized butter pieces." },
+    { "step": 5, "instruction": "Add heavy cream and vanilla. Stir just until the dough comes together — do not overmix." },
+    { "step": 6, "instruction": "Turn dough onto a lightly floured surface. Pat to ¾-inch thickness. Cut into 6 rounds using a 2.5-inch biscuit cutter." },
+    { "step": 7, "instruction": "Place on prepared baking sheet. Brush tops with cream and sprinkle with sugar." },
+    { "step": 8, "instruction": "Bake 15–18 minutes until golden brown. Cool on a wire rack for 10 minutes." },
+    { "step": 9, "instruction": "Whip cream: beat heavy cream, powdered sugar, and vanilla to soft peaks." },
+    { "step": 10, "instruction": "To assemble: split each shortcake horizontally. Spoon macerated strawberries and their juice over the bottom half. Add a generous dollop of whipped cream. Place the top half on and add more strawberries and cream. Serve immediately." }
+  ],
+  "notes": "Cold butter is the secret to flaky shortcakes — don't let it soften before cutting it in. The strawberry maceration step is not optional — it creates the sweet, jammy juices that soak into the biscuit."
+}

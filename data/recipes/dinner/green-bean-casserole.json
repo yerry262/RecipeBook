@@ -1,0 +1,34 @@
+{
+  "id": "green-bean-casserole",
+  "slug": "green-bean-casserole",
+  "title": "Green Bean Casserole",
+  "category": "dinner",
+  "description": "Tender green beans baked in creamy mushroom sauce with a savory Parmesan topping. A holiday classic.",
+  "image": "https://images.unsplash.com/photo-1606756790138-261d2b21cd75?w=800&q=80",
+  "prepTime": "15 min",
+  "cookTime": "35 min",
+  "totalTime": "50 min",
+  "servings": 4,
+  "difficulty": "Easy",
+  "tags": ["dinner", "side dish", "casserole", "thanksgiving", "green beans"],
+  "ingredients": [
+    { "amount": "2", "unit": "cups", "item": "fresh or frozen green beans", "note": "trimmed and strings removed" },
+    { "amount": "1", "unit": "can (10.5 oz)", "item": "cream of mushroom soup", "note": "smooth, low-sodium preferred" },
+    { "amount": "¼", "unit": "cup", "item": "whole milk or cream" },
+    { "amount": "¼", "unit": "tsp", "item": "garlic powder" },
+    { "amount": "¼", "unit": "tsp", "item": "onion powder" },
+    { "amount": "", "unit": "to taste", "item": "salt and white pepper" },
+    { "amount": "2", "unit": "tbsp", "item": "grated Parmesan", "note": "optional, finely grated" }
+  ],
+  "steps": [
+    { "step": 1, "instruction": "Preheat oven to 350°F." },
+    { "step": 2, "instruction": "Cook green beans in boiling salted water for 12–15 minutes until completely tender — much longer than usual. They should bend easily without snapping." },
+    { "step": 3, "instruction": "Drain beans. Cut into pieces approximately 12–15 mm long." },
+    { "step": 4, "instruction": "In a bowl, mix cream of mushroom soup, milk, garlic powder, and onion powder until smooth." },
+    { "step": 5, "instruction": "Combine cut green beans with the soup mixture. Stir well to coat all pieces." },
+    { "step": 6, "instruction": "Pour into a greased 8x8 inch baking dish. Sprinkle Parmesan on top if using." },
+    { "step": 7, "instruction": "Bake for 20 minutes until heated through and bubbling. Do not allow a crust to form on top." },
+    { "step": 8, "instruction": "Remove from oven. Stir before serving to redistribute sauce and confirm all beans are moist." }
+  ],
+  "notes": "Make sure to remove all string fibers from the green beans before cooking. The cream of mushroom soup provides a perfectly smooth binding sauce."
+}

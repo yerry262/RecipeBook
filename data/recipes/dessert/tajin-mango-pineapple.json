@@ -1,0 +1,30 @@
+{
+  "id": "tajin-mango-pineapple",
+  "slug": "tajin-mango-pineapple",
+  "title": "Tajin Mango and Pineapple",
+  "category": "dessert",
+  "description": "Fresh mango and pineapple dusted with zesty Tajin and a squeeze of lime. A bold, refreshing Mexican-style fruit snack.",
+  "image": "https://images.unsplash.com/photo-1553279768-865429fa0078?w=800&q=80",
+  "prepTime": "10 min",
+  "cookTime": "0 min",
+  "totalTime": "10 min",
+  "servings": 2,
+  "difficulty": "Easy",
+  "tags": ["dessert", "fruit", "mango", "pineapple", "tajin", "mexican", "no-cook"],
+  "ingredients": [
+    { "amount": "1", "unit": "ripe", "item": "mango", "note": "peeled and diced" },
+    { "amount": "1", "unit": "cup", "item": "fresh or canned pineapple chunks", "note": "core removed, cut to bite-size pieces" },
+    { "amount": "½–1", "unit": "tsp", "item": "Tajin Clasico seasoning", "note": "to taste" },
+    { "amount": "1", "unit": "tsp", "item": "fresh lime juice" },
+    { "amount": "1", "unit": "tbsp", "item": "honey", "note": "optional, if fruit is under-ripe" }
+  ],
+  "steps": [
+    { "step": 1, "instruction": "If using fresh mango: peel and dice into bite-size cubes. Press each piece to confirm ripeness — no firm areas." },
+    { "step": 2, "instruction": "If using fresh pineapple: remove core thoroughly. Dice flesh into bite-size pieces." },
+    { "step": 3, "instruction": "If either fruit feels firm, place pieces in a microwave-safe bowl with 1 tsp water, cover, and microwave for 45–60 seconds to soften." },
+    { "step": 4, "instruction": "Combine mango and pineapple in a serving bowl. Drizzle lime juice over the top." },
+    { "step": 5, "instruction": "Sprinkle Tajin lightly over the surface — start with a small amount and add more to taste." },
+    { "step": 6, "instruction": "Toss gently and serve. Add retained juice if the fruit appears dry." }
+  ],
+  "notes": "Tajin provides great flavor contrast with the sweet fruit. Start with less than you think you need — its flavor is quite pronounced and builds quickly."
+}

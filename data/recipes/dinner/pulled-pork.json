@@ -1,0 +1,36 @@
+{
+  "id": "pulled-pork",
+  "slug": "pulled-pork",
+  "title": "Pulled Pork",
+  "category": "dinner",
+  "description": "Slow-cooked pork shoulder rubbed with smoky spices, shredded until tender, and sauced with BBQ or gravy.",
+  "image": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?w=800&q=80",
+  "prepTime": "15 min",
+  "cookTime": "8 hr",
+  "totalTime": "8 hr 15 min",
+  "servings": 6,
+  "difficulty": "Medium",
+  "tags": ["dinner", "pork", "bbq", "slow cooker", "meal prep"],
+  "ingredients": [
+    { "amount": "2–3", "unit": "lb", "item": "pork shoulder or pork butt", "note": "trimmed of visible fat" },
+    { "amount": "½", "unit": "cup", "item": "low-sodium chicken or pork broth" },
+    { "amount": "1", "unit": "tsp", "item": "garlic powder" },
+    { "amount": "1", "unit": "tsp", "item": "onion powder" },
+    { "amount": "1", "unit": "tsp", "item": "smoked paprika" },
+    { "amount": "½", "unit": "tsp", "item": "cumin" },
+    { "amount": "½", "unit": "tsp", "item": "salt" },
+    { "amount": "¼", "unit": "tsp", "item": "white pepper" },
+    { "amount": "½", "unit": "cup", "item": "BBQ sauce", "note": "smooth, or substitute smooth gravy for serving" }
+  ],
+  "steps": [
+    { "step": 1, "instruction": "Trim all visible fat and connective tissue from the pork shoulder before cooking." },
+    { "step": 2, "instruction": "Mix all dry spices together. Rub evenly over all surfaces of the pork." },
+    { "step": 3, "instruction": "Place pork in slow cooker. Add broth. Cook on LOW for 7–8 hours or HIGH for 4–5 hours until the meat falls apart when poked with a fork." },
+    { "step": 4, "instruction": "Remove pork from slow cooker. Place on a cutting board." },
+    { "step": 5, "instruction": "Using two forks, shred the meat into thin strands. Remove and discard any remaining fat, gristle, or connective tissue." },
+    { "step": 6, "instruction": "Chop or cut shreds further until no piece is longer than 15 mm." },
+    { "step": 7, "instruction": "Return shredded pork to the slow cooker juices or toss with BBQ sauce to coat thoroughly." },
+    { "step": 8, "instruction": "Serve warm and moist. Sauce should be visible on every bite." }
+  ],
+  "notes": "Slow cooking is strongly preferred — high-heat cooking tightens muscle fibers and creates a drier, chewier result. The longer it cooks, the better."
+}

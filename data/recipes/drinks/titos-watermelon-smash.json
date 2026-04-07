@@ -1,0 +1,30 @@
+{
+  "id": "titos-watermelon-smash",
+  "slug": "titos-watermelon-smash",
+  "title": "Tito's Watermelon Smash",
+  "category": "drinks",
+  "description": "Fresh muddled watermelon and lime with Tito's Vodka over ice. Bright, fruity, and perfectly balanced — no syrup needed.",
+  "image": "https://images.unsplash.com/photo-1560155016-bd4879ae8f21?w=800&q=80",
+  "prepTime": "5 min",
+  "cookTime": "0 min",
+  "totalTime": "5 min",
+  "servings": 1,
+  "difficulty": "Easy",
+  "tags": ["drinks", "cocktail", "vodka", "watermelon", "lime", "titos", "summer"],
+  "ingredients": [
+    { "amount": "2", "unit": "oz", "item": "Tito's Handmade Vodka" },
+    { "amount": "3–4", "unit": "cubes (about 1 cup)", "item": "fresh seedless watermelon" },
+    { "amount": "¾", "unit": "oz", "item": "fresh lime juice", "note": "about 1 lime" },
+    { "amount": "3–4", "unit": "oz", "item": "club soda" },
+    { "amount": "", "unit": "to garnish", "item": "small watermelon wedge, lime wheel, and ice" }
+  ],
+  "steps": [
+    { "step": 1, "instruction": "In a cocktail shaker, add the watermelon cubes and lime juice. Muddle firmly until the watermelon is fully broken down and juicy." },
+    { "step": 2, "instruction": "Add Tito's Vodka and a handful of ice to the shaker." },
+    { "step": 3, "instruction": "Shake vigorously for 10–15 seconds." },
+    { "step": 4, "instruction": "Double-strain into a glass filled with fresh ice — straining through a fine mesh removes all pulp." },
+    { "step": 5, "instruction": "Top with club soda and stir gently once." },
+    { "step": 6, "instruction": "Garnish with a small watermelon wedge and lime wheel." }
+  ],
+  "notes": "The sweetness of the watermelon means you don't need any added sugar or syrup. For best results, use ripe, sweet watermelon — taste a piece before you start."
+}

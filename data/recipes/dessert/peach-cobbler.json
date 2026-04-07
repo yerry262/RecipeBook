@@ -1,0 +1,37 @@
+{
+  "id": "peach-cobbler",
+  "slug": "peach-cobbler",
+  "title": "Peach Cobbler",
+  "category": "dessert",
+  "description": "Warm spiced peaches topped with a soft, buttery biscuit crust. A Southern classic that's pure comfort in a dish.",
+  "image": "https://images.unsplash.com/photo-1568571780765-9276ac8b75a2?w=800&q=80",
+  "prepTime": "20 min",
+  "cookTime": "20 min",
+  "totalTime": "50 min",
+  "servings": 6,
+  "difficulty": "Medium",
+  "tags": ["dessert", "peach", "cobbler", "baking", "southern", "summer"],
+  "ingredients": [
+    { "amount": "2", "unit": "cups", "item": "fresh or frozen peach slices", "note": "peeled, or canned peaches in juice drained" },
+    { "amount": "2", "unit": "tbsp", "item": "brown sugar or honey" },
+    { "amount": "¼", "unit": "tsp", "item": "ground cinnamon" },
+    { "amount": "1", "unit": "tsp", "item": "lemon juice" },
+    { "amount": "¼", "unit": "cup", "item": "all-purpose flour", "note": "for biscuit base" },
+    { "amount": "¼", "unit": "tsp", "item": "baking powder" },
+    { "amount": "1", "unit": "tbsp", "item": "sugar" },
+    { "amount": "3", "unit": "tbsp", "item": "whole milk" },
+    { "amount": "1", "unit": "tbsp", "item": "melted butter" },
+    { "amount": "1", "unit": "pinch", "item": "salt" }
+  ],
+  "steps": [
+    { "step": 1, "instruction": "Preheat oven to 350°F. Grease a small 8x8 inch baking dish." },
+    { "step": 2, "instruction": "If using fresh peaches: steam peeled, sliced peaches for 8–10 minutes until very tender. If using canned: heat in saucepan until soft, about 5 minutes." },
+    { "step": 3, "instruction": "Mash softened peaches with a fork until pieces are small and soft. Stir in sugar, cinnamon, and lemon juice. Spread in the baking dish." },
+    { "step": 4, "instruction": "Whisk together flour, baking powder, sugar, salt, milk, and butter until a smooth batter forms." },
+    { "step": 5, "instruction": "Spoon batter in small dollops over the peaches. Do not spread — it will settle while baking." },
+    { "step": 6, "instruction": "Bake for 20 minutes until the biscuit topping is just set but still very soft and moist — not browned or crispy." },
+    { "step": 7, "instruction": "Remove from oven. Spoon 2 tbsp warm water or reserved peach juice over the top immediately to soak the biscuit." },
+    { "step": 8, "instruction": "Cool for 10 minutes. Spoon into serving dishes, mixing biscuit with peach filling. Serve with ice cream if desired." }
+  ],
+  "notes": "Canned peaches in juice are a reliable, consistent option when fresh peaches are out of season. Always remove peach skins — even after cooking, the skins can be tough."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "elbow-noodles-with-sauce",
+  "slug": "elbow-noodles-with-sauce",
+  "title": "Elbow Noodles with Sauce",
+  "category": "dinner",
+  "description": "Perfectly tender elbow macaroni tossed in your choice of cheese sauce, butter sauce, or smooth marinara.",
+  "image": "https://images.unsplash.com/photo-1543352634-a1c51d9f1fa7?w=800&q=80",
+  "prepTime": "5 min",
+  "cookTime": "15 min",
+  "totalTime": "20 min",
+  "servings": 2,
+  "difficulty": "Easy",
+  "tags": ["dinner", "pasta", "mac and cheese", "quick", "comfort food"],
+  "ingredients": [
+    { "amount": "1", "unit": "cup", "item": "elbow macaroni", "note": "dried" },
+    { "amount": "", "unit": "as needed", "item": "salted water for boiling" },
+    { "amount": "½", "unit": "cup", "item": "smooth marinara, cheese sauce, or butter sauce" },
+    { "amount": "", "unit": "to taste", "item": "salt and white pepper" },
+    { "amount": "2", "unit": "tbsp", "item": "grated Parmesan or finely shredded mozzarella", "note": "optional" }
+  ],
+  "steps": [
+    { "step": 1, "instruction": "Bring a large pot of salted water to a full boil." },
+    { "step": 2, "instruction": "Cook elbow macaroni for 2–3 minutes beyond the package-recommended time (typically 10–12 minutes total) until completely soft." },
+    { "step": 3, "instruction": "Test by pressing a noodle against the roof of your mouth with your tongue — it should crush with no resistance." },
+    { "step": 4, "instruction": "Drain pasta thoroughly. Immediately toss with chosen sauce while hot." },
+    { "step": 5, "instruction": "Ensure every piece of pasta is well coated with sauce — dry pasta will stick together." },
+    { "step": 6, "instruction": "If pasta seems dry or is sticking, add 1–2 tbsp additional warm water or sauce and toss again." },
+    { "step": 7, "instruction": "Serve immediately while warm and well-moistened. Stir before eating." }
+  ],
+  "notes": "Cheese sauce: melt 1 tbsp butter, whisk in 1 tsp flour, add ½ cup milk and ¼ cup shredded cheddar — stir until smooth. Butter sauce: 2 tbsp melted butter, ¼ tsp garlic powder, salt."
+}

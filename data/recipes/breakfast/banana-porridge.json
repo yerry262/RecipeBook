@@ -1,0 +1,32 @@
+{
+  "id": "banana-porridge",
+  "slug": "banana-porridge",
+  "title": "Banana Porridge",
+  "category": "breakfast",
+  "description": "Warm oat porridge stirred through with mashed ripe banana and a hint of cinnamon. Naturally sweet and filling.",
+  "image": "https://images.unsplash.com/photo-1571748982800-fa51082c2224?w=800&q=80",
+  "prepTime": "5 min",
+  "cookTime": "10 min",
+  "totalTime": "15 min",
+  "servings": 1,
+  "difficulty": "Easy",
+  "tags": ["breakfast", "porridge", "banana", "oats", "quick"],
+  "ingredients": [
+    { "amount": "⅓", "unit": "cup", "item": "rolled oats", "note": "not steel cut" },
+    { "amount": "1", "unit": "cup", "item": "whole milk or 2% milk" },
+    { "amount": "1", "unit": "very ripe", "item": "banana", "note": "brown-spotted for maximum softness" },
+    { "amount": "1", "unit": "tbsp", "item": "honey or brown sugar", "note": "optional" },
+    { "amount": "¼", "unit": "tsp", "item": "ground cinnamon" },
+    { "amount": "1", "unit": "pinch", "item": "salt" }
+  ],
+  "steps": [
+    { "step": 1, "instruction": "Combine oats, milk, cinnamon, and salt in a small saucepan over medium heat." },
+    { "step": 2, "instruction": "Cook, stirring frequently, for 8–10 minutes until oats are very soft and thick." },
+    { "step": 3, "instruction": "While oats cook, mash banana on a separate plate using a fork until completely smooth." },
+    { "step": 4, "instruction": "Remove oats from heat. Stir in mashed banana and honey or sugar if using." },
+    { "step": 5, "instruction": "Mix thoroughly so banana is distributed throughout. The mixture should be slightly lumpy but uniform." },
+    { "step": 6, "instruction": "If too stiff, add 1–2 tbsp additional warm milk and stir." },
+    { "step": 7, "instruction": "Cool to a safe serving temperature. Stir once more before serving." }
+  ],
+  "notes": "Very ripe bananas are essential — the browner and more spotted the peel, the sweeter and softer the banana. Milk-based porridge is much creamier than water-based."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "fruit-jello",
+  "slug": "fruit-jello",
+  "title": "Fruit Jello",
+  "category": "dessert",
+  "description": "Colorful, wobbly fruit gelatin with fresh or canned fruit suspended inside. A fun and refreshing classic dessert.",
+  "image": "https://images.unsplash.com/photo-1523049673857-eb18f1d7b578?w=800&q=80",
+  "prepTime": "15 min",
+  "cookTime": "0 min",
+  "totalTime": "4 hr 15 min (includes setting)",
+  "servings": 8,
+  "difficulty": "Easy",
+  "tags": ["dessert", "jello", "gelatin", "fruit", "party", "no-bake"],
+  "ingredients": [
+    { "amount": "2", "unit": "packages (3 oz each)", "item": "flavored gelatin", "note": "e.g., strawberry, raspberry, or cherry" },
+    { "amount": "2", "unit": "cups", "item": "boiling water" },
+    { "amount": "2", "unit": "cups", "item": "cold water" },
+    { "amount": "1", "unit": "cup", "item": "fresh or canned fruit pieces", "note": "strawberries, mandarin oranges, halved grapes, or peach slices" },
+    { "amount": "", "unit": "optional", "item": "whipped cream or Cool Whip for serving" }
+  ],
+  "steps": [
+    { "step": 1, "instruction": "Pour gelatin powder into a large bowl or 9x13 inch baking dish." },
+    { "step": 2, "instruction": "Add 2 cups boiling water. Stir vigorously for 2 full minutes until the gelatin is completely dissolved — no granules should remain." },
+    { "step": 3, "instruction": "Add 2 cups cold water and stir to combine." },
+    { "step": 4, "instruction": "Allow to cool at room temperature for 15 minutes." },
+    { "step": 5, "instruction": "Stir in prepared fruit pieces, distributing evenly throughout the liquid." },
+    { "step": 6, "instruction": "Refrigerate for at least 4 hours, or until fully set and firm. Overnight setting is ideal." },
+    { "step": 7, "instruction": "Cut into squares or scoop into serving dishes. Top with whipped cream if desired." }
+  ],
+  "notes": "Don't add fruit before the gelatin has cooled slightly — very hot liquid will break down soft fruit. Canned pineapple or kiwi contain enzymes that prevent gelatin from setting, so avoid those."
+}

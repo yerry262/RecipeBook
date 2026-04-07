@@ -1,0 +1,31 @@
+{
+  "id": "fruit-puree",
+  "slug": "fruit-puree",
+  "title": "Apple Banana Fruit Puree",
+  "category": "dessert",
+  "description": "Smooth, naturally sweet puree of cooked apple and ripe banana with a hint of cinnamon. Great as a dessert or topping.",
+  "image": "https://images.unsplash.com/photo-1546069901-5ec6a79120b0?w=800&q=80",
+  "prepTime": "10 min",
+  "cookTime": "10 min",
+  "totalTime": "20 min",
+  "servings": 2,
+  "difficulty": "Easy",
+  "tags": ["dessert", "fruit", "puree", "healthy", "quick"],
+  "ingredients": [
+    { "amount": "1", "unit": "medium ripe", "item": "banana", "note": "very ripe for sweetness and easy blending" },
+    { "amount": "1", "unit": "medium", "item": "apple", "note": "Fuji, Gala, or Honeycrisp — peeled and cored" },
+    { "amount": "1", "unit": "tbsp", "item": "lemon juice", "note": "to prevent browning" },
+    { "amount": "1–2", "unit": "tbsp", "item": "water or unsweetened apple juice" },
+    { "amount": "¼", "unit": "tsp", "item": "ground cinnamon", "note": "optional" }
+  ],
+  "steps": [
+    { "step": 1, "instruction": "Peel, core, and dice the apple. Sauté in a small pan with 1 tbsp water over medium heat for 8–10 minutes until very soft." },
+    { "step": 2, "instruction": "Alternatively, microwave diced apple with 1 tbsp water, covered, for 3–4 minutes until very tender." },
+    { "step": 3, "instruction": "Let cooked apple cool slightly." },
+    { "step": 4, "instruction": "Add banana chunks, cooked apple, lemon juice, and cinnamon (if using) to blender." },
+    { "step": 5, "instruction": "Blend on high for 60 seconds until completely smooth." },
+    { "step": 6, "instruction": "If the consistency is too thick, add 1 tbsp apple juice and blend again." },
+    { "step": 7, "instruction": "Serve immediately or refrigerate up to 24 hours." }
+  ],
+  "notes": "Apples must be cooked — raw apple is too fibrous to blend completely smooth. This puree also works great as a topping over oatmeal or yogurt."
+}

@@ -1,0 +1,26 @@
+{
+  "id": "canned-fruit-cocktail",
+  "slug": "canned-fruit-cocktail",
+  "title": "Canned Fruit Cocktail",
+  "category": "dessert",
+  "description": "Classic canned fruit cocktail served chilled with a dollop of yogurt or whipped cream. Easy, refreshing, and nostalgic.",
+  "image": "https://images.unsplash.com/photo-1490474418585-ba9bad8fd0ea?w=800&q=80",
+  "prepTime": "5 min",
+  "cookTime": "0 min",
+  "totalTime": "5 min",
+  "servings": 2,
+  "difficulty": "Easy",
+  "tags": ["dessert", "fruit", "quick", "no-cook"],
+  "ingredients": [
+    { "amount": "1", "unit": "can (15 oz)", "item": "fruit cocktail in juice or light syrup", "note": "avoid heavy syrup" },
+    { "amount": "2", "unit": "tbsp", "item": "plain yogurt or whipped cream", "note": "optional, for serving" }
+  ],
+  "steps": [
+    { "step": 1, "instruction": "Open can and drain approximately half the syrup or juice. Retain some liquid to keep fruit moist." },
+    { "step": 2, "instruction": "Pour fruit into a bowl and check each piece for size and firmness — cut down any pieces that are too large." },
+    { "step": 3, "instruction": "Check pineapple pieces — if too firm, heat briefly with a small amount of juice in the microwave for 30–45 seconds to soften." },
+    { "step": 4, "instruction": "Stir in yogurt or whipped cream if desired for extra creaminess." },
+    { "step": 5, "instruction": "Serve chilled or at room temperature." }
+  ],
+  "notes": "Canned fruit in juice (not syrup) keeps it lighter and less sweet. Great served over cottage cheese or with a scoop of ice cream."
+}

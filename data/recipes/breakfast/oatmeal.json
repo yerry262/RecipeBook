@@ -1,0 +1,31 @@
+{
+  "id": "oatmeal",
+  "slug": "oatmeal",
+  "title": "Oatmeal",
+  "category": "breakfast",
+  "description": "Warm, creamy oatmeal cooked with Ensure for added nutrition. Smooth, comforting, and easy to make.",
+  "image": "https://images.unsplash.com/photo-1517093728432-a0440f8d45af?w=800&q=80",
+  "prepTime": "5 min",
+  "cookTime": "10 min",
+  "totalTime": "15 min",
+  "servings": 1,
+  "difficulty": "Easy",
+  "tags": ["breakfast", "oatmeal", "quick", "healthy"],
+  "ingredients": [
+    { "amount": "½", "unit": "cup", "item": "rolled oats", "note": "old-fashioned or quick oats" },
+    { "amount": "1", "unit": "cup", "item": "fruit-flavored Ensure", "note": "e.g., Strawberry or Banana" },
+    { "amount": "¼", "unit": "cup", "item": "water", "note": "add more as needed for consistency" },
+    { "amount": "1", "unit": "pinch", "item": "cinnamon or nutmeg", "note": "optional, for flavor" },
+    { "amount": "1", "unit": "tsp", "item": "honey or maple syrup", "note": "optional" }
+  ],
+  "steps": [
+    { "step": 1, "instruction": "Combine rolled oats, Ensure, and water in a small saucepan over medium heat." },
+    { "step": 2, "instruction": "Stir continuously and cook for 5–7 minutes until oats are very soft and thick." },
+    { "step": 3, "instruction": "Remove from heat and allow to cool slightly." },
+    { "step": 4, "instruction": "Transfer to a high-powered blender or food processor." },
+    { "step": 5, "instruction": "Blend on high for 60–90 seconds until completely smooth." },
+    { "step": 6, "instruction": "If needed, add 1–2 tbsp additional Ensure or water and blend again to reach desired consistency." },
+    { "step": 7, "instruction": "Serve immediately or store covered in refrigerator up to 24 hours. Reheat gently and stir before serving." }
+  ],
+  "notes": "The Ensure beverage adds protein, calories, and micronutrients. Fruit-flavored Ensure adds natural sweetness."
+}

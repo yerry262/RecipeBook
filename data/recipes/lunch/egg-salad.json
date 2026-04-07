@@ -1,0 +1,34 @@
+{
+  "id": "egg-salad",
+  "slug": "egg-salad",
+  "title": "Egg Salad",
+  "category": "lunch",
+  "description": "Classic creamy egg salad with Dijon mustard and a hint of lemon. Great on soft bread or as a side.",
+  "image": "https://images.unsplash.com/photo-1528712306091-ed0763094c98?w=800&q=80",
+  "prepTime": "10 min",
+  "cookTime": "12 min",
+  "totalTime": "25 min",
+  "servings": 2,
+  "difficulty": "Easy",
+  "tags": ["lunch", "egg", "salad", "quick"],
+  "ingredients": [
+    { "amount": "4", "unit": "large", "item": "eggs" },
+    { "amount": "3", "unit": "tbsp", "item": "mayonnaise", "note": "full-fat" },
+    { "amount": "1", "unit": "tsp", "item": "Dijon mustard" },
+    { "amount": "1", "unit": "tsp", "item": "lemon juice or white vinegar" },
+    { "amount": "", "unit": "to taste", "item": "salt and white pepper" },
+    { "amount": "¼", "unit": "tsp", "item": "paprika", "note": "optional" },
+    { "amount": "¼", "unit": "tsp", "item": "garlic powder", "note": "optional" },
+    { "amount": "1", "unit": "tsp", "item": "finely minced fresh chives", "note": "optional, no stems" }
+  ],
+  "steps": [
+    { "step": 1, "instruction": "Place eggs in a saucepan and cover with cold water by 1 inch. Bring to a boil over medium-high heat." },
+    { "step": 2, "instruction": "Once boiling, reduce heat to medium. Cook exactly 10–11 minutes for fully set eggs." },
+    { "step": 3, "instruction": "Transfer immediately to an ice water bath. Peel once cool enough to handle." },
+    { "step": 4, "instruction": "Chop peeled eggs into irregular pieces approximately 8–12 mm. No piece should exceed 15 mm." },
+    { "step": 5, "instruction": "In a bowl, combine mayonnaise, mustard, lemon juice, and seasonings. Mix well." },
+    { "step": 6, "instruction": "Fold chopped eggs into the mayo mixture. Stir until every piece is coated." },
+    { "step": 7, "instruction": "Taste and adjust seasoning. Add more mayo if the mixture seems dry. Serve immediately or refrigerate." }
+  ],
+  "notes": "The ice bath immediately after cooking stops carry-over cooking and prevents rubbery egg whites. Don't skip it!"
+}

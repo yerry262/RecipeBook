@@ -1,0 +1,33 @@
+{
+  "id": "mashed-potatoes",
+  "slug": "mashed-potatoes",
+  "title": "Mashed Potatoes",
+  "category": "dinner",
+  "description": "Ultra-smooth, buttery mashed potatoes made with heavy cream and a savory touch of nutritional yeast.",
+  "image": "https://images.unsplash.com/photo-1574484284002-952d92456975?w=800&q=80",
+  "prepTime": "10 min",
+  "cookTime": "20 min",
+  "totalTime": "30 min",
+  "servings": 4,
+  "difficulty": "Easy",
+  "tags": ["dinner", "potatoes", "side dish", "comfort food"],
+  "ingredients": [
+    { "amount": "2", "unit": "medium", "item": "russet or Yukon Gold potatoes", "note": "peeled and cubed" },
+    { "amount": "2–4", "unit": "tbsp", "item": "heavy cream", "note": "adjust for desired consistency" },
+    { "amount": "1–2", "unit": "tbsp", "item": "unsalted butter" },
+    { "amount": "2", "unit": "tbsp", "item": "nutritional yeast", "note": "adds a savory, cheesy flavor" },
+    { "amount": "", "unit": "to taste", "item": "salt and white pepper" },
+    { "amount": "¼", "unit": "tsp", "item": "garlic powder", "note": "optional" },
+    { "amount": "", "unit": "as needed", "item": "water for blending" }
+  ],
+  "steps": [
+    { "step": 1, "instruction": "Peel and cube potatoes. Boil in salted water for 15–18 minutes until fork-tender." },
+    { "step": 2, "instruction": "Drain potatoes thoroughly; let steam dry for 1–2 minutes." },
+    { "step": 3, "instruction": "Transfer to a blender or food processor with butter and heavy cream." },
+    { "step": 4, "instruction": "Add nutritional yeast, salt, white pepper, and garlic powder if using." },
+    { "step": 5, "instruction": "Blend on high for 60 seconds. Scrape down sides and blend again." },
+    { "step": 6, "instruction": "Add water or additional cream, 1 tbsp at a time, blending between additions, until smooth and creamy." },
+    { "step": 7, "instruction": "Taste and adjust seasoning. Serve warm." }
+  ],
+  "notes": "Nutritional yeast adds a subtle cheesy, savory flavor along with B vitamins. Heavy cream adds richness — worth every calorie."
+}

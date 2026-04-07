@@ -1,0 +1,30 @@
+{
+  "id": "turkey",
+  "slug": "turkey",
+  "title": "Turkey with Gravy",
+  "category": "dinner",
+  "description": "Tender cooked turkey breast served with rich gravy or a sweet cranberry sauce. Simple and satisfying.",
+  "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=800&q=80",
+  "prepTime": "10 min",
+  "cookTime": "20 min",
+  "totalTime": "30 min",
+  "servings": 2,
+  "difficulty": "Easy",
+  "tags": ["dinner", "turkey", "thanksgiving", "gravy"],
+  "ingredients": [
+    { "amount": "1", "unit": "cup", "item": "cooked turkey breast", "note": "chopped, skin and bones removed" },
+    { "amount": "¼–½", "unit": "cup", "item": "turkey or chicken gravy", "note": "low-sodium preferred" },
+    { "amount": "2–3", "unit": "tbsp", "item": "whole-berry cranberry sauce", "note": "optional alternative to gravy, seeds strained out" },
+    { "amount": "1–2", "unit": "tbsp", "item": "butter or olive oil" },
+    { "amount": "", "unit": "to taste", "item": "salt and white pepper" },
+    { "amount": "", "unit": "as needed", "item": "additional warm broth for consistency" }
+  ],
+  "steps": [
+    { "step": 1, "instruction": "Ensure turkey is fully cooked. Remove all skin, cartilage, and any visible fat." },
+    { "step": 2, "instruction": "Chop turkey into small pieces and combine in a pan with warm gravy and butter." },
+    { "step": 3, "instruction": "Heat over medium-low, stirring gently, until warmed through." },
+    { "step": 4, "instruction": "Add warm broth, 1 tbsp at a time, if the mixture needs more moisture." },
+    { "step": 5, "instruction": "Adjust seasoning and serve warm with mashed potatoes or your favorite sides." }
+  ],
+  "notes": "For a festive twist, strain whole-berry cranberry sauce through a fine mesh sieve and use it in place of gravy. The natural sweetness of cranberry pairs beautifully with mild turkey."
+}

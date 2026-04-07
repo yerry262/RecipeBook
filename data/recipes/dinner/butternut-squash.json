@@ -1,0 +1,32 @@
+{
+  "id": "butternut-squash",
+  "slug": "butternut-squash",
+  "title": "Butternut Squash",
+  "category": "dinner",
+  "description": "Silky butternut squash infused with rosemary butter, cream, and a hint of nutmeg. A warming, elegant side dish.",
+  "image": "https://images.unsplash.com/photo-1568625365131-079e026a927d?w=800&q=80",
+  "prepTime": "15 min",
+  "cookTime": "30 min",
+  "totalTime": "45 min",
+  "servings": 4,
+  "difficulty": "Easy",
+  "tags": ["dinner", "squash", "vegetarian", "fall", "side dish"],
+  "ingredients": [
+    { "amount": "1", "unit": "small (approx. 2–2.5 lbs)", "item": "butternut squash", "note": "peeled, seeded, and cubed" },
+    { "amount": "2", "unit": "tbsp", "item": "unsalted butter" },
+    { "amount": "1", "unit": "sprig", "item": "fresh rosemary", "note": "for infusing, removed before serving" },
+    { "amount": "¼", "unit": "cup", "item": "heavy cream or vegetable broth" },
+    { "amount": "¼", "unit": "tsp", "item": "ground nutmeg" },
+    { "amount": "", "unit": "to taste", "item": "salt and white pepper" }
+  ],
+  "steps": [
+    { "step": 1, "instruction": "Peel, seed, and cube the butternut squash into 1-inch pieces." },
+    { "step": 2, "instruction": "Steam or boil squash for 20–25 minutes until very soft and easily pierced with a fork." },
+    { "step": 3, "instruction": "While squash cooks, melt butter in a small saucepan over low heat. Add the rosemary sprig and gently warm for 5 minutes to infuse. Remove and discard the rosemary sprig." },
+    { "step": 4, "instruction": "Drain cooked squash. Transfer to blender with rosemary-infused butter and heavy cream." },
+    { "step": 5, "instruction": "Add nutmeg, salt, and white pepper." },
+    { "step": 6, "instruction": "Blend on high for 60–90 seconds until completely smooth and silky." },
+    { "step": 7, "instruction": "Taste and adjust seasoning. Serve warm." }
+  ],
+  "notes": "Infusing flavor through butter is a great technique — it gives you all the rosemary flavor without any herb pieces to chew through."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "avocado-mash",
+  "slug": "avocado-mash",
+  "title": "Avocado Mash",
+  "category": "lunch",
+  "description": "Freshly mashed ripe avocado with lime juice, garlic, and cumin. Simple, healthy, and delicious.",
+  "image": "https://images.unsplash.com/photo-1614887524823-4b56b5fe4ef4?w=800&q=80",
+  "prepTime": "10 min",
+  "cookTime": "0 min",
+  "totalTime": "10 min",
+  "servings": 2,
+  "difficulty": "Easy",
+  "tags": ["lunch", "avocado", "healthy", "no-cook", "vegetarian"],
+  "ingredients": [
+    { "amount": "2", "unit": "ripe", "item": "avocados", "note": "must yield fully to gentle pressure" },
+    { "amount": "1", "unit": "tbsp", "item": "fresh lime juice" },
+    { "amount": "¼", "unit": "tsp", "item": "garlic powder", "note": "or ½ small garlic clove, minced to paste" },
+    { "amount": "¼", "unit": "tsp", "item": "cumin", "note": "optional" },
+    { "amount": "", "unit": "to taste", "item": "salt" },
+    { "amount": "1", "unit": "tbsp", "item": "finely diced tomato flesh", "note": "optional, seeds and skin removed" },
+    { "amount": "1", "unit": "tsp", "item": "fresh cilantro", "note": "optional, minced finely, no stems" }
+  ],
+  "steps": [
+    { "step": 1, "instruction": "Halve and pit avocados. Scoop flesh into a bowl." },
+    { "step": 2, "instruction": "Mash with a fork to desired consistency — smooth or slightly chunky as you prefer." },
+    { "step": 3, "instruction": "Add lime juice, garlic, cumin, and salt. Mix well." },
+    { "step": 4, "instruction": "If adding tomato: seed and skin the tomato first. Dice flesh and fold in gently." },
+    { "step": 5, "instruction": "If adding cilantro: use leaves only, minced finely — no stems." },
+    { "step": 6, "instruction": "Taste and adjust seasoning. Press plastic wrap directly onto the surface to prevent browning if not serving immediately." }
+  ],
+  "notes": "Only use avocados that are fully ripe (soft to the touch). Under-ripe avocados are firm and won't mash properly."
+}

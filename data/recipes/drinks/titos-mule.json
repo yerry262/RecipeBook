@@ -1,0 +1,28 @@
+{
+  "id": "titos-mule",
+  "slug": "titos-mule",
+  "title": "Tito's Moscow Mule",
+  "category": "drinks",
+  "description": "Tito's Vodka, fresh lime juice, and spicy ginger beer served ice-cold in a copper mug. One of the most popular vodka cocktails of all time.",
+  "image": "https://images.unsplash.com/photo-1551538827-9c037cb4f32a?w=800&q=80",
+  "prepTime": "5 min",
+  "cookTime": "0 min",
+  "totalTime": "5 min",
+  "servings": 1,
+  "difficulty": "Easy",
+  "tags": ["drinks", "cocktail", "vodka", "lime", "ginger beer", "titos", "moscow mule"],
+  "ingredients": [
+    { "amount": "2", "unit": "oz", "item": "Tito's Handmade Vodka" },
+    { "amount": "¾", "unit": "oz", "item": "fresh lime juice", "note": "about 1 lime, plus extra wedge for garnish" },
+    { "amount": "4–5", "unit": "oz", "item": "ginger beer", "note": "not ginger ale — ginger beer is spicier and less sweet" },
+    { "amount": "", "unit": "to garnish", "item": "lime wedge, fresh mint sprig, and ice" }
+  ],
+  "steps": [
+    { "step": 1, "instruction": "Fill a copper mug (or a regular glass) with ice." },
+    { "step": 2, "instruction": "Add Tito's Vodka over the ice." },
+    { "step": 3, "instruction": "Squeeze fresh lime juice in and drop the squeezed lime half into the mug." },
+    { "step": 4, "instruction": "Top with ginger beer. Do not stir — just let it settle so the ginger beer stays carbonated." },
+    { "step": 5, "instruction": "Garnish with a lime wedge and a fresh sprig of mint. Serve immediately." }
+  ],
+  "notes": "Always use ginger beer, not ginger ale — the difference is significant. Ginger beer has a real spicy kick that makes this drink. A copper mug keeps it colder longer and is the classic vessel, but any glass works."
+}

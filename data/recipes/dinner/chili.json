@@ -1,0 +1,37 @@
+{
+  "id": "chili",
+  "slug": "chili",
+  "title": "Chili",
+  "category": "dinner",
+  "description": "Hearty, rich chili made with ground beef or chicken, beans, tomatoes, and warming spices. A true crowd-pleaser.",
+  "image": "https://images.unsplash.com/photo-1608039829572-78524f79c4c7?w=800&q=80",
+  "prepTime": "10 min",
+  "cookTime": "30 min",
+  "totalTime": "40 min",
+  "servings": 4,
+  "difficulty": "Easy",
+  "tags": ["dinner", "chili", "beef", "comfort food", "meal prep"],
+  "ingredients": [
+    { "amount": "½", "unit": "lb", "item": "lean ground beef OR 1 cup cooked chicken breast", "note": "shredded" },
+    { "amount": "½", "unit": "cup", "item": "canned kidney or black beans", "note": "drained and rinsed" },
+    { "amount": "½", "unit": "cup", "item": "canned diced tomatoes", "note": "no seeds or skins if possible" },
+    { "amount": "¼", "unit": "cup", "item": "tomato paste" },
+    { "amount": "1", "unit": "cup", "item": "low-sodium beef or chicken broth", "note": "plus more as needed" },
+    { "amount": "1", "unit": "tbsp", "item": "chili powder" },
+    { "amount": "½", "unit": "tsp", "item": "cumin" },
+    { "amount": "½", "unit": "tsp", "item": "garlic powder" },
+    { "amount": "½", "unit": "tsp", "item": "onion powder" },
+    { "amount": "2", "unit": "tbsp", "item": "sour cream" },
+    { "amount": "2", "unit": "tbsp", "item": "shredded cheddar cheese" },
+    { "amount": "", "unit": "to taste", "item": "salt" }
+  ],
+  "steps": [
+    { "step": 1, "instruction": "Brown ground beef or cook chicken through in a skillet. Drain all fat." },
+    { "step": 2, "instruction": "Combine meat, beans, tomatoes, tomato paste, broth, and all spices in a pot." },
+    { "step": 3, "instruction": "Simmer over medium-low heat for 20–25 minutes, stirring occasionally." },
+    { "step": 4, "instruction": "Remove from heat and let cool slightly (5 minutes)." },
+    { "step": 5, "instruction": "Stir in sour cream and shredded cheese until incorporated." },
+    { "step": 6, "instruction": "Serve hot with your favorite toppings." }
+  ],
+  "notes": "Sour cream adds creaminess and richness. Cheese increases protein. This chili tastes even better the next day!"
+}

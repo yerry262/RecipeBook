@@ -1,0 +1,39 @@
+{
+  "id": "artichoke-dip-with-pita",
+  "slug": "artichoke-dip-with-pita",
+  "title": "Artichoke Dip with Pita",
+  "category": "lunch",
+  "description": "Warm, cheesy artichoke dip baked until golden and bubbling, served with soft warm pita wedges.",
+  "image": "https://images.unsplash.com/photo-1576158113928-4c240eaaf360?w=800&q=80",
+  "prepTime": "15 min",
+  "cookTime": "30 min",
+  "totalTime": "45 min",
+  "servings": 6,
+  "difficulty": "Easy",
+  "tags": ["lunch", "appetizer", "dip", "artichoke", "cheese"],
+  "ingredients": [
+    { "amount": "1", "unit": "can (14 oz)", "item": "artichoke hearts in water", "note": "drained and roughly chopped" },
+    { "amount": "1", "unit": "cup", "item": "mayonnaise" },
+    { "amount": "1", "unit": "cup", "item": "sour cream" },
+    { "amount": "1", "unit": "cup", "item": "shredded Parmesan cheese" },
+    { "amount": "1", "unit": "cup", "item": "shredded mozzarella cheese", "note": "divided" },
+    { "amount": "2", "unit": "cloves", "item": "garlic", "note": "minced" },
+    { "amount": "½", "unit": "tsp", "item": "onion powder" },
+    { "amount": "", "unit": "to taste", "item": "salt and black pepper" },
+    { "amount": "½", "unit": "tsp", "item": "red pepper flakes", "note": "optional" },
+    { "amount": "1", "unit": "tbsp", "item": "fresh lemon juice", "note": "optional" },
+    { "amount": "4–6", "unit": "rounds", "item": "soft pita bread" },
+    { "amount": "2", "unit": "tbsp", "item": "olive oil or melted butter" },
+    { "amount": "1", "unit": "pinch", "item": "garlic powder and salt", "note": "for pita" }
+  ],
+  "steps": [
+    { "step": 1, "instruction": "Preheat oven to 375°F. Grease a medium baking dish (approximately 8x8 inch)." },
+    { "step": 2, "instruction": "Drain artichoke hearts thoroughly. Chop into small pieces — approximately ½ inch." },
+    { "step": 3, "instruction": "In a large bowl, combine mayonnaise, sour cream, Parmesan, ¾ of the mozzarella, garlic, onion powder, and seasoning. Mix well." },
+    { "step": 4, "instruction": "Fold in chopped artichoke hearts. Stir to combine evenly." },
+    { "step": 5, "instruction": "Spread mixture into the prepared baking dish. Top with remaining mozzarella." },
+    { "step": 6, "instruction": "Bake for 25–30 minutes until bubbling, golden on top, and heated through." },
+    { "step": 7, "instruction": "While dip bakes, brush each pita round lightly with olive oil or butter and sprinkle with garlic powder and salt. Wrap in foil and warm in the oven for the last 8 minutes of baking — do not toast or crisp." },
+    { "step": 8, "instruction": "Remove dip and pita from oven. Cut pita into wedges. Serve dip warm with soft pita on the side." }
+  ]
+}

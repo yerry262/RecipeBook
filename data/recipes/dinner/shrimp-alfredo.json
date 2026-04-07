@@ -1,0 +1,39 @@
+{
+  "id": "shrimp-alfredo",
+  "slug": "shrimp-alfredo",
+  "title": "Shrimp Alfredo",
+  "category": "dinner",
+  "description": "Plump seasoned shrimp tossed with fettuccine in a velvety Parmesan Alfredo sauce. An indulgent restaurant-quality dinner.",
+  "image": "https://images.unsplash.com/photo-1563379926898-05f4575a45d8?w=800&q=80",
+  "prepTime": "10 min",
+  "cookTime": "20 min",
+  "totalTime": "30 min",
+  "servings": 4,
+  "difficulty": "Medium",
+  "tags": ["dinner", "shrimp", "alfredo", "pasta", "italian"],
+  "ingredients": [
+    { "amount": "4", "unit": "tbsp", "item": "unsalted butter" },
+    { "amount": "4", "unit": "cloves", "item": "garlic", "note": "minced" },
+    { "amount": "2", "unit": "cups", "item": "heavy cream" },
+    { "amount": "1½", "unit": "cups", "item": "freshly grated Parmesan cheese", "note": "freshly grated melts much better than pre-shredded" },
+    { "amount": "", "unit": "to taste", "item": "salt, white pepper, and pinch of nutmeg" },
+    { "amount": "1", "unit": "lb", "item": "large shrimp (21/25 count)", "note": "peeled and deveined, tails removed" },
+    { "amount": "1", "unit": "tbsp", "item": "olive oil" },
+    { "amount": "½", "unit": "tsp", "item": "garlic powder" },
+    { "amount": "", "unit": "to taste", "item": "salt and black pepper for shrimp" },
+    { "amount": "12", "unit": "oz", "item": "fettuccine or linguine pasta" },
+    { "amount": "", "unit": "to garnish", "item": "fresh parsley, chopped, and lemon wedges" }
+  ],
+  "steps": [
+    { "step": 1, "instruction": "Cook pasta in generously salted boiling water until al dente. Reserve 1 cup pasta water. Drain and set aside." },
+    { "step": 2, "instruction": "Season shrimp with garlic powder, salt, and pepper." },
+    { "step": 3, "instruction": "Heat olive oil in a large skillet over medium-high heat. Add shrimp in a single layer. Cook 1.5–2 minutes per side until pink and just cooked through — do not overcook. Remove shrimp to a plate." },
+    { "step": 4, "instruction": "Reduce heat to medium. In the same pan, melt butter. Add garlic and sauté 1 minute until fragrant — do not let it brown." },
+    { "step": 5, "instruction": "Pour in heavy cream. Bring to a gentle simmer. Cook 3–4 minutes, stirring frequently, until the cream reduces slightly." },
+    { "step": 6, "instruction": "Reduce heat to low. Add Parmesan a handful at a time, stirring constantly after each addition until fully melted and smooth. Season with salt, white pepper, and a pinch of nutmeg." },
+    { "step": 7, "instruction": "Add drained pasta to the sauce. Toss well to coat. If the sauce is too thick, add pasta water 2 tbsp at a time until the sauce clings to the pasta." },
+    { "step": 8, "instruction": "Return shrimp to the pan. Toss gently to combine and reheat for 1 minute." },
+    { "step": 9, "instruction": "Serve immediately in warm bowls. Garnish with fresh parsley and a lemon wedge." }
+  ],
+  "notes": "Use freshly grated Parmesan — pre-shredded cheese has anti-caking agents that prevent it from melting smoothly into the sauce."
+}
