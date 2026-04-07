@@ -1,0 +1,38 @@
+{
+  "id": "chocolate-chip-cookies",
+  "slug": "chocolate-chip-cookies",
+  "title": "Chewy Chocolate Chip Cookies",
+  "category": "dessert",
+  "description": "Perfectly chewy in the middle, slightly crispy on the edges, and loaded with chocolate chips. The ultimate cookie.",
+  "image": "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=800&q=80",
+  "prepTime": "15 min",
+  "cookTime": "12 min",
+  "totalTime": "1 hr (includes chilling)",
+  "servings": 24,
+  "difficulty": "Easy",
+  "tags": ["dessert", "cookies", "baking", "chocolate", "family favorite"],
+  "ingredients": [
+    { "amount": "2¼", "unit": "cups", "item": "all-purpose flour" },
+    { "amount": "1", "unit": "tsp", "item": "baking soda" },
+    { "amount": "1", "unit": "tsp", "item": "salt" },
+    { "amount": "1", "unit": "cup (2 sticks)", "item": "unsalted butter", "note": "softened to room temperature" },
+    { "amount": "¾", "unit": "cup", "item": "granulated sugar" },
+    { "amount": "¾", "unit": "cup", "item": "packed brown sugar" },
+    { "amount": "2", "unit": "large", "item": "eggs" },
+    { "amount": "2", "unit": "tsp", "item": "vanilla extract" },
+    { "amount": "2", "unit": "cups", "item": "semi-sweet chocolate chips" },
+    { "amount": "½", "unit": "tsp", "item": "flaky sea salt", "note": "for topping" }
+  ],
+  "steps": [
+    { "step": 1, "instruction": "Whisk flour, baking soda, and salt in a bowl. Set aside." },
+    { "step": 2, "instruction": "Beat butter and both sugars together with a mixer on medium speed for 3–4 minutes until light and fluffy." },
+    { "step": 3, "instruction": "Beat in eggs one at a time, then add vanilla." },
+    { "step": 4, "instruction": "Reduce speed to low and mix in the flour mixture just until combined. Fold in chocolate chips." },
+    { "step": 5, "instruction": "Cover dough and refrigerate for at least 30 minutes (up to 72 hours — longer = better flavor)." },
+    { "step": 6, "instruction": "Preheat oven to 375°F (190°C). Line baking sheets with parchment paper." },
+    { "step": 7, "instruction": "Scoop rounded tablespoons of dough onto prepared sheets, spacing 2 inches apart. Sprinkle with flaky sea salt." },
+    { "step": 8, "instruction": "Bake 10–12 minutes until edges are golden but centers still look slightly underdone. They firm up as they cool." },
+    { "step": 9, "instruction": "Cool on the baking sheet for 5 minutes before transferring to a wire rack." }
+  ],
+  "notes": "Don't overbake! The cookies will look underdone when you pull them out — that's the secret to the perfect chewy texture."
+}

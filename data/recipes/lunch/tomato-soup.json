@@ -1,0 +1,34 @@
+{
+  "id": "tomato-soup",
+  "slug": "tomato-soup",
+  "title": "Creamy Tomato Basil Soup",
+  "category": "lunch",
+  "description": "Velvety smooth tomato soup with fresh basil, perfect paired with a grilled cheese on a cold day.",
+  "image": "https://images.unsplash.com/photo-1547592180-85f173990554?w=800&q=80",
+  "prepTime": "10 min",
+  "cookTime": "30 min",
+  "totalTime": "40 min",
+  "servings": 4,
+  "difficulty": "Easy",
+  "tags": ["lunch", "soup", "comfort food", "vegetarian"],
+  "ingredients": [
+    { "amount": "2", "unit": "cans (28oz each)", "item": "whole peeled tomatoes" },
+    { "amount": "1", "unit": "medium", "item": "yellow onion", "note": "roughly chopped" },
+    { "amount": "4", "unit": "cloves", "item": "garlic", "note": "minced" },
+    { "amount": "2", "unit": "tbsp", "item": "unsalted butter" },
+    { "amount": "1", "unit": "cup", "item": "chicken or vegetable broth" },
+    { "amount": "½", "unit": "cup", "item": "heavy cream" },
+    { "amount": "¼", "unit": "cup", "item": "fresh basil leaves" },
+    { "amount": "1", "unit": "tsp", "item": "sugar" },
+    { "amount": "", "unit": "to taste", "item": "salt and black pepper" }
+  ],
+  "steps": [
+    { "step": 1, "instruction": "Melt butter in a large pot over medium heat. Add onion and cook until softened, about 5 minutes." },
+    { "step": 2, "instruction": "Add garlic and cook 1 more minute until fragrant." },
+    { "step": 3, "instruction": "Add the canned tomatoes (with juices), broth, and sugar. Bring to a simmer." },
+    { "step": 4, "instruction": "Simmer for 20 minutes, stirring occasionally, until flavors meld." },
+    { "step": 5, "instruction": "Use an immersion blender (or transfer to a blender in batches) and blend until completely smooth." },
+    { "step": 6, "instruction": "Stir in the heavy cream and fresh basil. Season with salt and pepper. Serve hot with crusty bread or grilled cheese." }
+  ],
+  "notes": "For a richer flavor, roast the tomatoes in the oven at 400°F for 20 minutes before adding to the pot."
+}

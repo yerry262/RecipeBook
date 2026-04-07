@@ -1,0 +1,32 @@
+{
+  "id": "avocado-toast",
+  "slug": "avocado-toast",
+  "title": "Avocado Toast with Poached Egg",
+  "category": "breakfast",
+  "description": "Creamy mashed avocado on crunchy sourdough topped with a perfectly poached egg and red pepper flakes.",
+  "image": "https://images.unsplash.com/photo-1525351484163-7529414344d8?w=800&q=80",
+  "prepTime": "5 min",
+  "cookTime": "10 min",
+  "totalTime": "15 min",
+  "servings": 2,
+  "difficulty": "Medium",
+  "tags": ["breakfast", "avocado", "healthy", "brunch"],
+  "ingredients": [
+    { "amount": "2", "unit": "thick slices", "item": "sourdough bread" },
+    { "amount": "1", "unit": "large", "item": "ripe avocado" },
+    { "amount": "2", "unit": "large", "item": "eggs" },
+    { "amount": "1", "unit": "tbsp", "item": "white vinegar", "note": "for poaching" },
+    { "amount": "1", "unit": "tbsp", "item": "fresh lemon juice" },
+    { "amount": "½", "unit": "tsp", "item": "red pepper flakes" },
+    { "amount": "", "unit": "to taste", "item": "salt and black pepper" },
+    { "amount": "", "unit": "optional", "item": "everything bagel seasoning" }
+  ],
+  "steps": [
+    { "step": 1, "instruction": "Toast the sourdough slices until golden and crispy." },
+    { "step": 2, "instruction": "Halve the avocado, remove the pit, and scoop the flesh into a bowl. Add lemon juice, salt, and pepper, then mash to your desired consistency." },
+    { "step": 3, "instruction": "Bring a small saucepan of water to a gentle simmer. Add white vinegar." },
+    { "step": 4, "instruction": "Crack each egg into a small cup. Create a gentle swirl in the water and slide the egg in. Poach for 3–4 minutes for a runny yolk." },
+    { "step": 5, "instruction": "Spread the mashed avocado onto the toasted bread." },
+    { "step": 6, "instruction": "Remove the poached egg with a slotted spoon, pat dry, and place on top of the avocado toast. Season with red pepper flakes and everything bagel seasoning." }
+  ]
+}

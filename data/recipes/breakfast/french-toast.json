@@ -1,0 +1,33 @@
+{
+  "id": "french-toast",
+  "slug": "french-toast",
+  "title": "French Toast",
+  "category": "breakfast",
+  "description": "Rich, custardy French toast with a hint of cinnamon and vanilla. A weekend breakfast classic.",
+  "image": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&q=80",
+  "prepTime": "5 min",
+  "cookTime": "15 min",
+  "totalTime": "20 min",
+  "servings": 2,
+  "difficulty": "Easy",
+  "tags": ["breakfast", "french toast", "brunch", "quick"],
+  "ingredients": [
+    { "amount": "4", "unit": "thick slices", "item": "brioche or challah bread" },
+    { "amount": "2", "unit": "large", "item": "eggs" },
+    { "amount": "½", "unit": "cup", "item": "whole milk" },
+    { "amount": "1", "unit": "tsp", "item": "vanilla extract" },
+    { "amount": "1", "unit": "tsp", "item": "ground cinnamon" },
+    { "amount": "1", "unit": "tbsp", "item": "granulated sugar" },
+    { "amount": "2", "unit": "tbsp", "item": "unsalted butter" },
+    { "amount": "", "unit": "to serve", "item": "powdered sugar, maple syrup, fresh berries" }
+  ],
+  "steps": [
+    { "step": 1, "instruction": "Whisk together eggs, milk, vanilla, cinnamon, and sugar in a shallow bowl until well combined." },
+    { "step": 2, "instruction": "Heat a large skillet over medium heat and melt 1 tablespoon of butter." },
+    { "step": 3, "instruction": "Dip each bread slice in the egg mixture, letting it soak for about 20 seconds per side." },
+    { "step": 4, "instruction": "Cook the soaked bread in the skillet for 2–3 minutes per side until golden brown and slightly crispy on the edges." },
+    { "step": 5, "instruction": "Repeat with remaining slices, adding more butter as needed." },
+    { "step": 6, "instruction": "Serve dusted with powdered sugar, a drizzle of maple syrup, and fresh berries." }
+  ],
+  "notes": "Thick-cut brioche makes this extra indulgent. Day-old bread works best as it absorbs the custard without getting soggy."
+}

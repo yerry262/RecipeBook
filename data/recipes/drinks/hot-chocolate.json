@@ -1,0 +1,32 @@
+{
+  "id": "hot-chocolate",
+  "slug": "hot-chocolate",
+  "title": "Rich Hot Chocolate",
+  "category": "drinks",
+  "description": "Thick, velvety hot chocolate made with real chocolate — not cocoa powder. Pure indulgence in a mug.",
+  "image": "https://images.unsplash.com/photo-1517578239113-b03992dcdd25?w=800&q=80",
+  "prepTime": "2 min",
+  "cookTime": "8 min",
+  "totalTime": "10 min",
+  "servings": 2,
+  "difficulty": "Easy",
+  "tags": ["drinks", "hot chocolate", "cozy", "winter", "chocolate"],
+  "ingredients": [
+    { "amount": "2", "unit": "cups", "item": "whole milk" },
+    { "amount": "3", "unit": "oz", "item": "good quality dark chocolate (60–70%)", "note": "finely chopped" },
+    { "amount": "1", "unit": "tbsp", "item": "unsweetened cocoa powder" },
+    { "amount": "2", "unit": "tbsp", "item": "granulated sugar", "note": "adjust to taste" },
+    { "amount": "¼", "unit": "tsp", "item": "vanilla extract" },
+    { "amount": "1", "unit": "pinch", "item": "salt" },
+    { "amount": "1", "unit": "pinch", "item": "cayenne pepper", "note": "optional, for warmth" },
+    { "amount": "", "unit": "to top", "item": "whipped cream, mini marshmallows, or chocolate shavings" }
+  ],
+  "steps": [
+    { "step": 1, "instruction": "Heat milk in a small saucepan over medium-low heat until steaming but not boiling." },
+    { "step": 2, "instruction": "Whisk in cocoa powder and sugar until dissolved." },
+    { "step": 3, "instruction": "Add the chopped chocolate and whisk continuously until fully melted and smooth." },
+    { "step": 4, "instruction": "Stir in vanilla, salt, and a pinch of cayenne if using." },
+    { "step": 5, "instruction": "Pour into mugs and top with whipped cream or marshmallows. Serve immediately." }
+  ],
+  "notes": "The quality of chocolate makes all the difference. Use a good chocolate bar — skip the chocolate chips as they have stabilizers that affect texture."
+}

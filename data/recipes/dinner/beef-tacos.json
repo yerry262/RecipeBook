@@ -1,0 +1,39 @@
+{
+  "id": "beef-tacos",
+  "slug": "beef-tacos",
+  "title": "Seasoned Ground Beef Tacos",
+  "category": "dinner",
+  "description": "Quick and flavorful ground beef tacos with homemade seasoning, fresh toppings, and warm tortillas.",
+  "image": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=800&q=80",
+  "prepTime": "10 min",
+  "cookTime": "15 min",
+  "totalTime": "25 min",
+  "servings": 4,
+  "difficulty": "Easy",
+  "tags": ["dinner", "tacos", "mexican", "quick", "family favorite"],
+  "ingredients": [
+    { "amount": "1", "unit": "lb", "item": "ground beef (80/20)" },
+    { "amount": "8", "unit": "", "item": "small flour or corn tortillas" },
+    { "amount": "1", "unit": "tbsp", "item": "chili powder" },
+    { "amount": "1", "unit": "tsp", "item": "cumin" },
+    { "amount": "½", "unit": "tsp", "item": "garlic powder" },
+    { "amount": "½", "unit": "tsp", "item": "onion powder" },
+    { "amount": "½", "unit": "tsp", "item": "smoked paprika" },
+    { "amount": "¼", "unit": "cup", "item": "water" },
+    { "amount": "1", "unit": "cup", "item": "shredded cheddar cheese" },
+    { "amount": "1", "unit": "cup", "item": "shredded lettuce" },
+    { "amount": "2", "unit": "", "item": "roma tomatoes", "note": "diced" },
+    { "amount": "½", "unit": "cup", "item": "sour cream" },
+    { "amount": "1", "unit": "", "item": "avocado", "note": "sliced" },
+    { "amount": "", "unit": "optional", "item": "salsa, jalapeños, hot sauce, lime" }
+  ],
+  "steps": [
+    { "step": 1, "instruction": "Brown ground beef in a skillet over medium-high heat, breaking up the meat. Drain excess fat." },
+    { "step": 2, "instruction": "Mix together chili powder, cumin, garlic powder, onion powder, paprika, salt, and pepper. Add to the meat." },
+    { "step": 3, "instruction": "Pour in water and stir. Simmer 3–4 minutes until the sauce thickens and coats the meat." },
+    { "step": 4, "instruction": "Warm tortillas in a dry skillet or directly over a gas flame." },
+    { "step": 5, "instruction": "Build your tacos: spoon beef into tortillas, then pile on cheese, lettuce, tomatoes, avocado, and sour cream." },
+    { "step": 6, "instruction": "Serve with lime wedges and your favorite hot sauce." }
+  ],
+  "notes": "Set up a taco bar with all the toppings for a fun family dinner where everyone builds their own!"
+}
