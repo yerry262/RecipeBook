@@ -60,7 +60,7 @@ export default function LikeButton({ recipeSlug, initialLikes, initialLiked }: L
         size={18}
         className={`transition-all ${liked ? 'fill-current' : ''} ${loading ? 'animate-pulse' : ''}`}
       />
-      <span>{count > 0 ? count : ''} {count === 1 ? 'Like' : 'Likes'}</span>
+      <span>{count > 0 ? `${count} ${count === 1 ? 'Like' : 'Likes'}` : 'Like'}</span>
     </button>
   );
 }
