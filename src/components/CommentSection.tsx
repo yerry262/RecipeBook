@@ -39,6 +39,7 @@ export default function CommentSection({ recipeSlug, initialComments }: CommentS
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ recipeSlug, text: text.trim() }),
       });
+      if (!res.ok) return;
       const newComment = await res.json();
       setComments((prev) => [...prev, newComment]);
       setText('');

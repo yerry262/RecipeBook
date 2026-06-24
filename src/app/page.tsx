@@ -1,5 +1,4 @@
 import Link from 'next/link';
-import Image from 'next/image';
 import { getAllRecipes, CATEGORIES } from '@/lib/recipes';
 import RecipeCard from '@/components/RecipeCard';
 import { ArrowRight, Search } from 'lucide-react';
