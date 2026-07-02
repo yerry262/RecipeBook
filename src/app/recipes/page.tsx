@@ -66,8 +66,8 @@ export default function RecipesPage({ searchParams }: RecipesPageProps) {
         </div>
       ) : (
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
-          {filtered.map((recipe) => (
-            <RecipeCard key={recipe.slug} recipe={recipe} />
+          {filtered.map((recipe, i) => (
+            <RecipeCard key={recipe.slug} recipe={recipe} priority={i < 3} />
           ))}
         </div>
       )}

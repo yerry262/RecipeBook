@@ -3,7 +3,7 @@
 import { useState } from 'react';
 import { useSession, signIn } from 'next-auth/react';
 import Image from 'next/image';
-import { MessageCircle, Send, Trash2 } from 'lucide-react';
+import { MessageCircle, Send, Trash2, UserCircle } from 'lucide-react';
 import { Comment } from '@/types/recipe';
 
 interface CommentSectionProps {
@@ -41,6 +41,7 @@ export default function CommentSection({ recipeSlug, initialComments }: CommentS
       });
       if (!res.ok) return;
       const newComment = await res.json();
+      if (!newComment?.id) return;
       setComments((prev) => [...prev, newComment]);
       setText('');
     } finally {
@@ -122,12 +123,16 @@ export default function CommentSection({ recipeSlug, initialComments }: CommentS
           {comments.map((comment) => (
             <li key={comment.id} className="flex gap-3">
               <div className="relative w-9 h-9 flex-shrink-0">
-                <Image
-                  src={comment.userImage || '/placeholder-avatar.png'}
-                  alt={comment.userName}
-                  fill
-                  className="rounded-full object-cover"
-                />
+                {comment.userImage ? (
+                  <Image
+                    src={comment.userImage}
+                    alt={comment.userName}
+                    fill
+                    className="rounded-full object-cover"
+                  />
+                ) : (
+                  <UserCircle size={36} className="text-gray-300" />
+                )}
               </div>
               <div className="flex-1 min-w-0">
                 <div className="flex items-center gap-2 mb-1">

@@ -43,41 +43,50 @@ export default function SearchModal({ isOpen, onClose }: SearchModalProps) {
       return;
     }
     setLoading(true);
-    let active = true;
+    const controller = new AbortController();
     const timer = setTimeout(async () => {
       try {
-        const res = await fetch(`/api/search?q=${encodeURIComponent(query)}`);
+        const res = await fetch(`/api/search?q=${encodeURIComponent(query)}`, {
+          signal: controller.signal,
+        });
         const data = await res.json();
-        if (active) setResults(data.results ?? []);
-      } catch {
-        if (active) setResults([]);
-      } finally {
-        if (active) setLoading(false);
+        setResults(data.results ?? []);
+        setLoading(false);
+      } catch (err) {
+        if (err instanceof DOMException && err.name === 'AbortError') return;
+        setResults([]);
+        setLoading(false);
       }
     }, 250);
     return () => {
-      active = false;
       clearTimeout(timer);
+      controller.abort();
     };
   }, [query]);
 
   useEffect(() => {
+    if (!isOpen) return;
     const handleKey = (e: KeyboardEvent) => {
       if (e.key === 'Escape') onClose();
     };
     window.addEventListener('keydown', handleKey);
     return () => window.removeEventListener('keydown', handleKey);
-  }, [onClose]);
+  }, [isOpen, onClose]);
 
   if (!isOpen) return null;
 
   return (
-    <div className="fixed inset-0 z-50 flex items-start justify-center pt-16 px-4">
+    <div
+      className="fixed inset-0 z-50 flex items-start justify-center pt-16 px-4"
+      role="dialog"
+      aria-modal="true"
+      aria-label="Search recipes"
+    >
       {/* Backdrop */}
-      <div className="absolute inset-0 bg-black/40 backdrop-blur-sm" onClick={onClose} />
+      <div className="absolute inset-0 bg-black/40 backdrop-blur-sm animate-fade-in" onClick={onClose} />
 
       {/* Modal */}
-      <div className="relative w-full max-w-xl bg-white rounded-2xl shadow-2xl overflow-hidden">
+      <div className="relative w-full max-w-xl bg-white rounded-2xl shadow-2xl overflow-hidden animate-slide-up">
         {/* Search Input */}
         <div className="flex items-center gap-3 px-4 py-4 border-b border-gray-100">
           <Search size={20} className="text-gray-400 flex-shrink-0" />

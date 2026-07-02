@@ -59,17 +59,20 @@ export default function Navbar() {
                   <ChevronDown size={14} className={`transition-transform ${categoriesOpen ? 'rotate-180' : ''}`} />
                 </button>
                 {categoriesOpen && (
-                  <div className="absolute top-full left-0 mt-1 w-52 bg-white rounded-xl shadow-lg border border-orange-100 py-2 z-50">
-                    {categories.map((cat) => (
-                      <Link
-                        key={cat.href}
-                        href={cat.href}
-                        className="flex items-center gap-3 px-4 py-2.5 text-sm text-gray-700 hover:bg-orange-50 hover:text-rust-600 transition-colors"
-                      >
-                        <span>{cat.emoji}</span>
-                        {cat.label}
-                      </Link>
-                    ))}
+                  <div className="absolute top-full left-0 pt-1 w-52 z-50 animate-slide-down">
+                    <div className="bg-white rounded-xl shadow-lg border border-orange-100 py-2">
+                      {categories.map((cat) => (
+                        <Link
+                          key={cat.href}
+                          href={cat.href}
+                          className="flex items-center gap-3 px-4 py-2.5 text-sm text-gray-700 hover:bg-orange-50 hover:text-rust-600 transition-colors"
+                          onClick={() => setCategoriesOpen(false)}
+                        >
+                          <span>{cat.emoji}</span>
+                          {cat.label}
+                        </Link>
+                      ))}
+                    </div>
                   </div>
                 )}
               </div>
@@ -127,7 +130,7 @@ export default function Navbar() {
 
         {/* Mobile Menu */}
         {mobileOpen && (
-          <div className="md:hidden border-t border-orange-100 bg-white px-4 py-4 space-y-1">
+          <div className="md:hidden border-t border-orange-100 bg-white px-4 py-4 space-y-1 animate-slide-down">
             <Link href="/" className="block px-3 py-2 text-sm font-medium text-gray-700 hover:text-rust-600 rounded-lg hover:bg-orange-50" onClick={() => setMobileOpen(false)}>
               Home
             </Link>

@@ -17,7 +17,7 @@ cp .env.local.example .env.local
 ```
 
 You'll need:
-- **Google OAuth credentials** — create a project at [console.developers.google.com](https://console.developers.google.com/), enable the Google+ API, and create OAuth 2.0 credentials. Add `http://localhost:3000/api/auth/callback/google` as an authorized redirect URI.
+- **Google OAuth credentials** — create a project at [console.developers.google.com](https://console.developers.google.com/) and create OAuth 2.0 credentials. Add `http://localhost:3000/api/auth/callback/google` as an authorized redirect URI.
 - **NEXTAUTH_SECRET** — generate with `openssl rand -base64 32`
 
 ### 3. Run the dev server

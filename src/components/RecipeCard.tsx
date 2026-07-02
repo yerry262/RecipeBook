@@ -7,9 +7,10 @@ import CategoryBadge from './CategoryBadge';
 interface RecipeCardProps {
   recipe: Recipe;
   featured?: boolean;
+  priority?: boolean;
 }
 
-export default function RecipeCard({ recipe, featured = false }: RecipeCardProps) {
+export default function RecipeCard({ recipe, featured = false, priority = false }: RecipeCardProps) {
   return (
     <Link href={`/recipes/${recipe.slug}`} className="group block">
       <article className={`card hover:shadow-md transition-all duration-200 group-hover:-translate-y-0.5 ${featured ? 'h-full' : ''}`}>
@@ -19,6 +20,7 @@ export default function RecipeCard({ recipe, featured = false }: RecipeCardProps
             src={recipe.image}
             alt={recipe.title}
             fill
+            priority={priority}
             className="object-cover transition-transform duration-300 group-hover:scale-105"
             sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
           />
