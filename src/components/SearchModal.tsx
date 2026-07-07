@@ -30,6 +30,7 @@ export default function SearchModal({ isOpen, onClose }: SearchModalProps) {
       document.body.style.overflow = 'hidden';
     } else {
       document.body.style.overflow = '';
+      // eslint-disable-next-line react-hooks/set-state-in-effect -- resets modal state when closed via the isOpen prop, not a render-loop
       setQuery('');
       setResults([]);
     }
@@ -38,6 +39,7 @@ export default function SearchModal({ isOpen, onClose }: SearchModalProps) {
 
   useEffect(() => {
     if (!query.trim()) {
+      // eslint-disable-next-line react-hooks/set-state-in-effect -- clears stale results when query is emptied, not a render-loop
       setResults([]);
       setLoading(false);
       return;
